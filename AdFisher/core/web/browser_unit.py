@@ -10,7 +10,7 @@ from datetime import datetime               # for tagging log with datetime
 # from xvfbwrapper import Xvfb                # for creating artificial display to run experiments
 from selenium.webdriver.common.proxy import *       # for proxy settings
 
-BrowserUnit("firefox", "log.log", 1, 2, True)
+# BrowserUnit("firefox", "log.log", 1, 2, True)
 
 
 class BrowserUnit:

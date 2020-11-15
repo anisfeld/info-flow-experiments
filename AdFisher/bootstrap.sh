@@ -36,7 +36,8 @@ sudo pip install -r /vagrant/requirements.txt
 # Fetch nltk stopwords corpus
 python -m nltk.downloader -d /usr/share/nltk_data stopwords
 
-
+# need to drive firefox with selenium
+apt-get install -y firefox-geckodriver
 
 
 

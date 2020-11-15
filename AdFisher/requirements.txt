@@ -7,7 +7,7 @@ xvfbwrapper
 numpy
 scipy
 matplotlib
-scikit-learn
+scikit-learn==0.17.1
 stemming
 pyyaml
 nltk
