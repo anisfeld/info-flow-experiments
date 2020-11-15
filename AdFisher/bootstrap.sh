@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# NOTE: this is written for Ubuntu 14.04. Will not work as written on later versions
 
 ### Install os dependencies
 apt-get update
@@ -8,10 +9,11 @@ apt-get update
 apt-get install -y ubuntu-desktop gnome-session-flashback
 
 # Required for browsing
-apt-get install -y firefox 
+apt-get install -y firefox
 
 # Required for headless testing
-apt-get install -y xvfb 
+apt-get install -y xvfb
+
 
 # Required for data analysis
 apt-get install -y python-numpy python-scipy python-matplotlib
@@ -33,3 +35,14 @@ sudo pip install -r /vagrant/requirements.txt
 
 # Fetch nltk stopwords corpus
 python -m nltk.downloader -d /usr/share/nltk_data stopwords
+
+
+
+
+
+# on Ubuntu 20. pip is not available through apt-get
+# apt-get install -y python2
+# https://stackoverflow.com/questions/61981156/unable-to-locate-package-python-pip-ubuntu-20-04
+# apt-get install -y curl
+# curl https://bootstrap.pypa.io/get-pip.py --output get-pip.py
+# sudo python ./get-pip.py
