@@ -135,6 +135,7 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
                 ad = tim+"@|"+title+"@|"+company+"@|"+location
                 ad = ad.encode("utf8")
                 print(ad)
+                self.log('measurement', 'ad', ad)
 
             except:
                 try:
@@ -147,7 +148,8 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
                         ad = tim+"@|"+title+"@|"+company+"@|"+location
                         ad = ad.encode("utf8")
                         print(ad)
+                        self.log('measurement', 'ad', ad)
+
                 except:
                     ad = tim+"@|Failed@|NA@|NA"
-
-            self.log('measurement', 'ad', ad)
+                    self.log('measurement', 'ad', ad)
