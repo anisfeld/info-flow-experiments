@@ -1,10 +1,11 @@
-import web.google_ads               # collecting ads
-import web.pre_experiment.alexa     # collecting top sites from alexa
-import adfisher                     # adfisher wrapper function
-import sys
 import os
-sys.path.append("../core")          # files from the core
+import sys
 
+sys.path.append("../core")  # nopep8
+
+import adfisher                     # adfisher wrapper function
+import web.pre_experiment.alexa     # collecting top sites from alexa
+import web.google_ads               # collecting ads
 
 log_file = 'orig.adblock.log.txt'
 
