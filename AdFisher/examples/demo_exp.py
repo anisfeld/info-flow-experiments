@@ -1,3 +1,7 @@
+
+import sys
+import os
+sys.path.append("../core")
 import analysis.statistics          # statistics for significance testing
 import converter.reader             # read log and create feature vectors
 import web.google_news              # interacting with Google News
