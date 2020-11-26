@@ -59,7 +59,7 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
                 elif(site == 'monster'):
                     self.save_ads_monster(file_name)
                 elif(site == 'google'):
-                    self.save_ads_google(file_name, search_terms=search_terms)
+                    self.save_ads_google(file_name, search_terms)
                 else:
                     raw_input("No such site found: %s!" % site)
                 e = datetime.now()
@@ -166,7 +166,7 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
         def process_ads(ads, term, tim):
             for i in range(len(ads)):
                 parsed_ad = [x for x in ads[i].text.split(
-                    "\n") if x not in ["Ads", "", 'Ad·']]
+                    "\n") if x[0:1] not in ["Ad", ""]]  # really want "Ads" and "Ad·"  but encoding error
                 # some will be blank
                 if parsed_ad:
                     title = parsed_ad[0]

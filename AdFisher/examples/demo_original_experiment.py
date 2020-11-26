@@ -7,7 +7,7 @@ import adfisher                     # adfisher wrapper function
 import web.pre_experiment.alexa     # collecting top sites from alexa
 import web.google_ads               # collecting ads
 
-log_file = 'orig.adblock.log.txt'
+log_file = 'orig.log.txt'
 
 # Defines the browser that will be used as a "unit" and gives it a copy of the adblock_rules
 
