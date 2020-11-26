@@ -36,9 +36,10 @@ def exp_treatment(unit):
 
 def measurement(unit):
 
-    sites = ['monster']
+    sites = ['monster', 'google']
     for site in sites:
-        unit.collect_ads(site=site, reloads=2, delay=5)
+        unit.collect_ads(site=site, reloads=2, delay=5,
+                         search_terms=["jobs", "clothes"])
 
 # Shuts down the browser once we are done with it.
 
