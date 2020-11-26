@@ -10,6 +10,7 @@ from datetime import datetime
 # to press keys on a webpage
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains    # to move mouse over
+from selenium.webdriver.support.ui import WebDriverWait
 # import browser_unit
 # interacting with Google Search
 import google_search
@@ -171,7 +172,7 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
                 if parsed_ad:
                     title = parsed_ad[0]
                     url = parsed_ad[1]
-                    body = "\n".join(parsed_ad[2:])
+                    body = "; ".join(parsed_ad[2:])
                     out_ad = tim+"@|ad - "+term+"@|"+title+"@|"+url+"@|"+body
                     out_ad = out_ad.encode("utf8")
                     # print(out_ad)
