@@ -166,7 +166,7 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
         def process_ads(ads, term, tim):
             for i in range(len(ads)):
                 parsed_ad = [x for x in ads[i].text.split(
-                    "\n") if x[0:1] not in ["Ad", ""]]  # really want "Ads" and "Ad·"  but encoding error
+                    "\n") if x[0:1] not in ["Ad", ""]]  # really want "Ads" and "Ad" dot  but encoding error with dot
                 # some will be blank
                 if parsed_ad:
                     title = parsed_ad[0]
