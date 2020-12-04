@@ -20,7 +20,7 @@ import random
 from HTMLParser import HTMLParser
 
 
-class MLStripper():
+class MLStripper(HTMLParser):
     def __init__(self):
         self.reset()
         self.fed = []
@@ -228,6 +228,7 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
                     page += 1
                     # see if there are ads on the next page
                 else:
+                    # some times there are no ads on page 1 but yes on page 2
                     if page > 1:
                         break
                     page += 1

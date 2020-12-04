@@ -94,7 +94,7 @@ class GoogleSearchUnit(browser_unit.BrowserUnit):
             s = 0
             r = 0
             q = line.strip()
-            print("\nsearch query: ", q)
+            print "\nsearch query: ", q
             try:
                 self.driver.get("http://www.google.com/")
                 time.sleep(1)
