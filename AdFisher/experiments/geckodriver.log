@@ -1,0 +1,413 @@
+1607097426032	geckodriver	INFO	Listening on 127.0.0.1:51615
+1607097426033	geckodriver	INFO	Listening on 127.0.0.1:39919
+1607097426035	geckodriver	INFO	Listening on 127.0.0.1:53017
+1607097426036	geckodriver	INFO	Listening on 127.0.0.1:45801
+1607097427092	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoqB2Ty"
+1607097427093	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWgcnf9"
+1607097427096	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileROe0rE"
+1607097427100	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerPBAkz"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607097457014	Marionette	INFO	Listening on port 46437
+1607097457538	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607097460004	Marionette	INFO	Listening on port 40951
+1607097460864	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607097460994	Marionette	INFO	Listening on port 46107
+1607097461426	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607097461676	Marionette	INFO	Listening on port 46139
+1607097462652	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=dlzKX_XMJYG6tQax4KnYAw&q=men%27s+clothes&btnK=Google+Search" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=clzKX8egIpO5tQbcgLHYDw&q=clothes&oq=clothes&gs_lcp=CgZwc3ktYWIQAzIFCAAQsQMyCwguELEDEMcBEKMCMgUIABCxAzIFCAAQyQMyAggAMgUIABCxAzIICAAQsQMQgwEyAggAMgUIABCxAzICCABQrh1YoyZguTFoAHAAeACAAfQJiAHnHpIBBTYtMy4xmAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwjHoYzJ2LTtAhWTXM0KHVxADPsQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=eFzKX_KuCtaxtQb7lqvADg&q=clothes&btnK=Google+Search" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=dlzKX8-kCYm2tAbSvoK4Cg&q=men%27s+clothes&oq=men%27s+clothes&gs_lcp=CgZwc3ktYWIQAzIFCAAQsQMyBQgAEMkDMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6CAgAELEDEIMBUIMUWLUbYLIoaABwAHgAgAG6CYgBxRuSAQkzLTEuNi0xLjKYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwjPt-fK2LTtAhUJG80KHVKfAKcQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+1607097481573	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607097482047	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607097483123	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607097488276	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://assets.asosservices.com/shared/require.7c30e08a.js, line 2: Error: Module name "jquery" has not been loaded yet for context: _. Use require([])
+http://requirejs.org/docs/errors.html#notloaded
+JavaScript error: https://s.btstatic.com/lib/203a0853239abc7b83dbc5a79032ee43e4a76396.js?v=2, line 27: ReferenceError: Signal is not defined
+JavaScript error: https://s.btstatic.com/lib/44fd9a4a54394c5ca8b27a5b5378ce90b4ea767c.js?v=2, line 18: ReferenceError: Signal is not defined
+JavaScript error: https://assets.asosservices.com/shared/require.7c30e08a.js, line 2: Error: Module name "jquery" has not been loaded yet for context: _. Use require([])
+http://requirejs.org/docs/errors.html#notloaded
+JavaScript error: https://s.btstatic.com/lib/203a0853239abc7b83dbc5a79032ee43e4a76396.js?v=2, line 27: ReferenceError: Signal is not defined
+JavaScript error: https://s.btstatic.com/lib/44fd9a4a54394c5ca8b27a5b5378ce90b4ea767c.js?v=2, line 18: ReferenceError: Signal is not defined
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=eFzKX_KuCtaxtQb7lqvADg&q=clothes&btnK=Google+Search" "with ads but couldn't find the information"
+JavaScript error: https://assets.asosservices.com/shared/require.7c30e08a.js, line 2: Error: Module name "jquery" has not been loaded yet for context: _. Use require([])
+http://requirejs.org/docs/errors.html#notloaded
+JavaScript error: https://s.btstatic.com/lib/203a0853239abc7b83dbc5a79032ee43e4a76396.js?v=2, line 27: ReferenceError: Signal is not defined
+JavaScript error: https://s.btstatic.com/lib/44fd9a4a54394c5ca8b27a5b5378ce90b4ea767c.js?v=2, line 18: ReferenceError: Signal is not defined
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=dlzKX_XMJYG6tQax4KnYAw&q=men%27s+clothes&btnK=Google+Search" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=clzKX8egIpO5tQbcgLHYDw&q=clothes&oq=clothes&gs_lcp=CgZwc3ktYWIQAzIFCAAQsQMyCwguELEDEMcBEKMCMgUIABCxAzIFCAAQyQMyAggAMgUIABCxAzIICAAQsQMQgwEyAggAMgUIABCxAzICCABQrh1YoyZguTFoAHAAeACAAfQJiAHnHpIBBTYtMy4xmAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwjHoYzJ2LTtAhWTXM0KHVxADPsQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+JavaScript warning: https://static.securedtouch.com/sdk/securedtouch-sdk-3.7.3w.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.securedtouch.com/sdk/securedtouch-sdk-3.7.3w.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.securedtouch.com/sdk/securedtouch-sdk-3.7.3w.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.securedtouch.com/sdk/securedtouch-sdk-3.7.3w.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.securedtouch.com/sdk/securedtouch-sdk-3.7.3w.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.securedtouch.com/sdk/securedtouch-sdk-3.7.3w.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.securedtouch.com/sdk/securedtouch-sdk-3.7.3w.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.securedtouch.com/sdk/securedtouch-sdk-3.7.3w.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.macys.com/shop/mens-clothing?id=1, line 2282: ChunkLoadError: Loading chunk vendors~viewCompact~viewRadical failed.
+(error: https://assets.macysassets.com/page/discovery-pages-mcom/static/js/discovery-pages-mcom.vendors~viewCompact~viewRadical.989fcadc53c0d8304e5b.js)
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=eFzKX_KuCtaxtQb7lqvADg&q=clothes&btnK=Google+Search" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=dlzKX_XMJYG6tQax4KnYAw&q=men%27s+clothes&btnK=Google+Search" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=ulzKX5aAGJLStQbXqrbADg&q=leather+belts&oq=leather+belts&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgUIABDJAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BQgAELEDUJQdWLMmYN8yaABwAHgAgAHfCYgBvRySAQk0LTEuMC4xLjKYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwiWxazr2LTtAhUSac0KHVeVDegQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+JavaScript warning: https://www.missguidedus.com/mssgddsdstl.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.missguidedus.com/mssgddsdstl.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.missguidedus.com/mssgddsdstl.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.missguidedus.com/mssgddsdstl.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1607097555172	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=clzKX8egIpO5tQbcgLHYDw&q=clothes&oq=clothes&gs_lcp=CgZwc3ktYWIQAzIFCAAQsQMyCwguELEDEMcBEKMCMgUIABCxAzIFCAAQyQMyAggAMgUIABCxAzIICAAQsQMQgwEyAggAMgUIABCxAzICCABQrh1YoyZguTFoAHAAeACAAfQJiAHnHpIBBTYtMy4xmAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwjHoYzJ2LTtAhWTXM0KHVxADPsQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=eFzKX_KuCtaxtQb7lqvADg&q=clothes&btnK=Google+Search" "with ads but couldn't find the information"
+1607097571161	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www.kohls.com/snb/media/javascript/deploy/ktag.js, line 39: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kohls.com/snb/media/javascript/deploy/ktag.js, line 39: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kohls.com/snb/media/javascript/deploy/ktag.js, line 39: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kohls.com/snb/media/javascript/deploy/ktag.js, line 39: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.targetimg1.com/ui/vendor.70103091.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.targetimg1.com/ui/vendor.70103091.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.targetimg1.com/ui/vendor.70103091.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.targetimg1.com/ui/vendor.70103091.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.targetimg1.com/ui/atdfm.477a8165.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.targetimg1.com/ui/atdfm.477a8165.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.targetimg1.com/ui/atdfm.477a8165.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.targetimg1.com/ui/atdfm.477a8165.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=41zKX4S4FsSwtAbYnYrYCg&q=leather+belts&oq=leather+belts&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgUIABDJAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BQgAELEDUPQUWJ4ZYIEhaABwAHgAgAGtBogB3xKSAQkyLTEuNS0xLjKYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwjEtfH-2LTtAhVEGM0KHdiOAqsQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=eFzKX_KuCtaxtQb7lqvADg&q=clothes&btnK=Google+Search" "with ads but couldn't find the information"
+1607097604615	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=_FzKX9H5OYWE9PwP0NusoA0&q=gold+belts&oq=gold+belts&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgUIABDJAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6CwgAELEDEIMBEMkDOgUILhCxAzoFCAAQsQM6AgguOggILhDHARCvAVCxBliwCWCNEGgAcAB4AIAB5wWIAaISkgEJMy0xLjAuMS4ymAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwjR54qL2bTtAhUFAp0JHdAtC9QQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=_1zKX5GgKcLOtQaMi7GYBQ&q=shampoo+for+dudes&oq=shampoo+for+dudes&gs_lcp=CgZwc3ktYWIQAzIFCAAQzQIyBQgAEM0COgUIABDJAzoCCAA6BAgAEAo6CQgAEMkDEBYQHjoGCAAQFhAeUPsaWJ8gYJglaABwAHgAgAG5A4gBwAuSAQcyLTEuMS4ymAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwjRm7GM2bTtAhVCZ80KHYxFDFMQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/targetdfp320149284940/moatad.js#moatClientLevel1=14468846&moatClientLevel2=2744175334&moatClientLevel3=5474992313&moatClientLevel4=138328513862&moatClientSlicer1=6079166&moatClientSlicer2=106546646&zMoatPS=block1&zMoatPT=category&zMoatST=, line 262: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/targetdfp320149284940/moatad.js#moatClientLevel1=14468846&moatClientLevel2=2744175334&moatClientLevel3=5474992313&moatClientLevel4=138328513862&moatClientSlicer1=6079166&moatClientSlicer2=106546646&zMoatPS=block1&zMoatPT=category&zMoatST=, line 262: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/targetdfp320149284940/moatad.js#moatClientLevel1=14468846&moatClientLevel2=2744175334&moatClientLevel3=5474992313&moatClientLevel4=138328513862&moatClientSlicer1=6079166&moatClientSlicer2=106546646&zMoatPS=block1&zMoatPT=category&zMoatST=, line 262: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/targetdfp320149284940/moatad.js#moatClientLevel1=14468846&moatClientLevel2=2744175334&moatClientLevel3=5474992313&moatClientLevel4=138328513862&moatClientSlicer1=6079166&moatClientSlicer2=106546646&zMoatPS=block1&zMoatPT=category&zMoatST=, line 262: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://512572b1225944461fe52e67d2d9bc0d.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 62: ReferenceError: osdlfm is not defined
+JavaScript error: https://512572b1225944461fe52e67d2d9bc0d.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 62: ReferenceError: osdlfm is not defined
+JavaScript error: https://512572b1225944461fe52e67d2d9bc0d.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: ReferenceError: osdlfm is not defined
+JavaScript warning: https://assets.targetimg1.com/ui/vendor.70103091.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.targetimg1.com/ui/vendor.70103091.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.targetimg1.com/ui/vendor.70103091.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.targetimg1.com/ui/vendor.70103091.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/targetdfp320149284940/moatad.js#moatClientLevel1=14473886&moatClientLevel2=2755980164&moatClientLevel3=5540393437&moatClientLevel4=138331658197&moatClientSlicer1=6079166&moatClientSlicer2=106546646&zMoatPS=block2&zMoatPT=category&zMoatST=, line 262: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/targetdfp320149284940/moatad.js#moatClientLevel1=14473886&moatClientLevel2=2755980164&moatClientLevel3=5540393437&moatClientLevel4=138331658197&moatClientSlicer1=6079166&moatClientSlicer2=106546646&zMoatPS=block2&zMoatPT=category&zMoatST=, line 262: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/targetdfp320149284940/moatad.js#moatClientLevel1=14473886&moatClientLevel2=2755980164&moatClientLevel3=5540393437&moatClientLevel4=138331658197&moatClientSlicer1=6079166&moatClientSlicer2=106546646&zMoatPS=block2&zMoatPT=category&zMoatST=, line 262: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/targetdfp320149284940/moatad.js#moatClientLevel1=14473886&moatClientLevel2=2755980164&moatClientLevel3=5540393437&moatClientLevel4=138331658197&moatClientSlicer1=6079166&moatClientSlicer2=106546646&zMoatPS=block2&zMoatPT=category&zMoatST=, line 262: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1607097620819	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://z.moatads.com/targetdfp320149284940/moatad.js#moatClientLevel1=14473886&moatClientLevel2=2757361917&moatClientLevel3=5497893053&moatClientLevel4=138331022336&moatClientSlicer1=6079166&moatClientSlicer2=106546646&zMoatPS=block3&zMoatPT=category&zMoatST=, line 262: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/targetdfp320149284940/moatad.js#moatClientLevel1=14473886&moatClientLevel2=2757361917&moatClientLevel3=5497893053&moatClientLevel4=138331022336&moatClientSlicer1=6079166&moatClientSlicer2=106546646&zMoatPS=block3&zMoatPT=category&zMoatST=, line 262: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/targetdfp320149284940/moatad.js#moatClientLevel1=14473886&moatClientLevel2=2757361917&moatClientLevel3=5497893053&moatClientLevel4=138331022336&moatClientSlicer1=6079166&moatClientSlicer2=106546646&zMoatPS=block3&zMoatPT=category&zMoatST=, line 262: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/targetdfp320149284940/moatad.js#moatClientLevel1=14473886&moatClientLevel2=2757361917&moatClientLevel3=5497893053&moatClientLevel4=138331022336&moatClientSlicer1=6079166&moatClientSlicer2=106546646&zMoatPS=block3&zMoatPT=category&zMoatST=, line 262: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/targetdfp320149284940/moatad.js#moatClientLevel1=4905428587&moatClientLevel2=2741285724&moatClientLevel3=5467335309&moatClientLevel4=138330472144&moatClientSlicer1=6079166&moatClientSlicer2=106546646&zMoatPS=ss&zMoatPT=category&zMoatST=, line 262: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/targetdfp320149284940/moatad.js#moatClientLevel1=4905428587&moatClientLevel2=2741285724&moatClientLevel3=5467335309&moatClientLevel4=138330472144&moatClientSlicer1=6079166&moatClientSlicer2=106546646&zMoatPS=ss&zMoatPT=category&zMoatST=, line 262: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/targetdfp320149284940/moatad.js#moatClientLevel1=4905428587&moatClientLevel2=2741285724&moatClientLevel3=5467335309&moatClientLevel4=138330472144&moatClientSlicer1=6079166&moatClientSlicer2=106546646&zMoatPS=ss&zMoatPT=category&zMoatST=, line 262: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/targetdfp320149284940/moatad.js#moatClientLevel1=4905428587&moatClientLevel2=2741285724&moatClientLevel3=5467335309&moatClientLevel4=138330472144&moatClientSlicer1=6079166&moatClientSlicer2=106546646&zMoatPS=ss&zMoatPT=category&zMoatST=, line 262: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.targetimg1.com/ui/atdfm.477a8165.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.targetimg1.com/ui/atdfm.477a8165.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.targetimg1.com/ui/atdfm.477a8165.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.targetimg1.com/ui/atdfm.477a8165.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=EV3KX8eoDJattQbAz5-QAw&q=gold+belts&oq=gold+belts&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgUIABDJAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6CwgAELEDEIMBEMkDOgUILhCxAzoFCAAQsQM6AgguOggILhDHARCvAVDtA1iEB2CPEGgAcAB4AIAB6weIAYYdkgEFNi0zLjGYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwiH9d6U2bTtAhWWVs0KHcDnBzIQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=EV3KX8eoDJattQbAz5-QAw&q=gold+belts&oq=gold+belts&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgUIABDJAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6CwgAELEDEIMBEMkDOgUILhCxAzoFCAAQsQM6AgguOggILhDHARCvAVDtA1iEB2CPEGgAcAB4AIAB6weIAYYdkgEFNi0zLjGYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwiH9d6U2bTtAhWWVs0KHcDnBzIQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+JavaScript warning: https://www.amazon.com/Best-Mens-Shampoo/s?k=Best+Men%27s+Shampoo line 6 > injectedScript, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.amazon.com/Best-Mens-Shampoo/s?k=Best+Men%27s+Shampoo line 6 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.amazon.com/Best-Mens-Shampoo/s?k=Best+Men%27s+Shampoo line 6 > injectedScript, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.amazon.com/Best-Mens-Shampoo/s?k=Best+Men%27s+Shampoo line 6 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/targetdfp320149284940/moatad.js#moatClientLevel1=14467646&moatClientLevel2=2736266548&moatClientLevel3=5456779191&moatClientLevel4=138324133107&moatClientSlicer1=6079166&moatClientSlicer2=21755679327&zMoatPS=block1&zMoatPT=category&zMoatST=, line 262: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/targetdfp320149284940/moatad.js#moatClientLevel1=14467646&moatClientLevel2=2736266548&moatClientLevel3=5456779191&moatClientLevel4=138324133107&moatClientSlicer1=6079166&moatClientSlicer2=21755679327&zMoatPS=block1&zMoatPT=category&zMoatST=, line 262: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/targetdfp320149284940/moatad.js#moatClientLevel1=14467646&moatClientLevel2=2736266548&moatClientLevel3=5456779191&moatClientLevel4=138324133107&moatClientSlicer1=6079166&moatClientSlicer2=21755679327&zMoatPS=block1&zMoatPT=category&zMoatST=, line 262: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/targetdfp320149284940/moatad.js#moatClientLevel1=14467646&moatClientLevel2=2736266548&moatClientLevel3=5456779191&moatClientLevel4=138324133107&moatClientSlicer1=6079166&moatClientSlicer2=21755679327&zMoatPS=block1&zMoatPT=category&zMoatST=, line 262: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/targetdfp320149284940/moatad.js#moatClientLevel1=27695606&moatClientLevel2=2750459997&moatClientLevel3=5483632038&moatClientLevel4=138329326204&moatClientSlicer1=6079166&moatClientSlicer2=21755679327&zMoatPS=ss&zMoatPT=category&zMoatST=, line 262: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/targetdfp320149284940/moatad.js#moatClientLevel1=27695606&moatClientLevel2=2750459997&moatClientLevel3=5483632038&moatClientLevel4=138329326204&moatClientSlicer1=6079166&moatClientSlicer2=21755679327&zMoatPS=ss&zMoatPT=category&zMoatST=, line 262: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/targetdfp320149284940/moatad.js#moatClientLevel1=27695606&moatClientLevel2=2750459997&moatClientLevel3=5483632038&moatClientLevel4=138329326204&moatClientSlicer1=6079166&moatClientSlicer2=21755679327&zMoatPS=ss&zMoatPT=category&zMoatST=, line 262: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/targetdfp320149284940/moatad.js#moatClientLevel1=27695606&moatClientLevel2=2750459997&moatClientLevel3=5483632038&moatClientLevel4=138329326204&moatClientSlicer1=6079166&moatClientSlicer2=21755679327&zMoatPS=ss&zMoatPT=category&zMoatST=, line 262: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=EV3KX8eoDJattQbAz5-QAw&q=gold+belts&oq=gold+belts&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgUIABDJAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6CwgAELEDEIMBEMkDOgUILhCxAzoFCAAQsQM6AgguOggILhDHARCvAVDtA1iEB2CPEGgAcAB4AIAB6weIAYYdkgEFNi0zLjGYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwiH9d6U2bTtAhWWVs0KHcDnBzIQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=Rl3KX77vOfSP9PwPu5ip2AQ&q=beard+shaving+kit&oq=beard+shaving+kit&gs_lcp=CgZwc3ktYWIQAzIFCAAQyQMyAggAMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yCAgAEBYQChAeUOMTWNIaYMAiaABwAHgAgAGdBYgB3Q-SAQkyLTEuMC4xLjKYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwi-qq-u2bTtAhX0B50JHTtMCksQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+JavaScript warning: https://www.amazon.com/Best-Mens-Shampoo/s?k=Best+Men%27s+Shampoo line 6 > injectedScript, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.amazon.com/Best-Mens-Shampoo/s?k=Best+Men%27s+Shampoo line 6 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.amazon.com/Best-Mens-Shampoo/s?k=Best+Men%27s+Shampoo line 6 > injectedScript, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.amazon.com/Best-Mens-Shampoo/s?k=Best+Men%27s+Shampoo line 6 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=Sl3KX6fvDMG7tQa8gp6IBA&q=shampoo+for+women&oq=shampoo+for+women&gs_lcp=CgZwc3ktYWIQAzIFCAAQyQMyAggAMgIIADICCAAyAggAUPcGWI4OYNAaaABwAHgAgAGECYgBzBqSAQk0LTEuMC4xLjKYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwinvPav2bTtAhXBXc0KHTyBB0EQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+1607097692839	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607097705807	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 216: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=Sl3KX6fvDMG7tQa8gp6IBA&q=shampoo+for+women&oq=shampoo+for+women&gs_lcp=CgZwc3ktYWIQAzIFCAAQyQMyAggAMgIIADICCAAyAggAUPcGWI4OYNAaaABwAHgAgAGECYgBzBqSAQk0LTEuMC4xLjKYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwinvPav2bTtAhXBXc0KHTyBB0EQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=fF3KX-n1KJa1tAagmpjABQ&q=shampoo+for+women&oq=shampoo+for+women&gs_lcp=CgZwc3ktYWIQAzIFCAAQyQMyAggAMgIIADICCAAyAggAUP4GWK4MYMwVaABwAHgAgAGNCIgByhmSAQkzLTEuNi0xLjKYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwjpo_7H2bTtAhWWGs0KHSANBlgQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/01BQUL-hQyL._RC|11viIoOEOPL.js,01PRkM1aDfL.js,21sJjuTtH3L.js,21pIV95CwML.js,41OViPKYJpL.js,01XjcM4RNaL.js,01Ni5Zr1JEL.js,51N5atJBB6L.js,01j5DeZSMzL.js,31E0yPIOfyL.js,414RVqfRSrL.js,21fAUGxUxsL.js,51uib1LCQFL.js,11ZH9OLeweL.js,01ly-sHeg8L.js,31vdoo1mL-L.js,410eaF5F7xL.js,21G0MYQzChL.js,21hDW1uFLaL.js,21aHaSE1FvL.js,11jC1BUSQzL.js,01+IMZNrmnL.js,21ojI99jc4L.js,41nOU+H4wLL.js,01N0G7oHRlL.js,313O5e5IrML.js,01MXRzfhrcL.js,01a6I0+Jp1L.js,01hhbhUbM+L.js_.js?AUIClients/SearchPartnerAssets&8hQpEgLp#us.284232-T1.245574-T1.183962-T1.233979-T1.286985-C.302241-T1.287217-T1.238397-T1.210766-T1, line 295: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+1607097734723	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://z.moatads.com/forbesprebidheader122641196143/yi.js, line 183: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/forbesprebidheader122641196143/yi.js, line 183: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/forbesprebidheader122641196143/yi.js, line 183: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/forbesprebidheader122641196143/yi.js, line 183: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.thecut.com/article/best-shampoos.html line 3124 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 183: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 183: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 183: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 183: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1607097754996	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://www.forbes.com/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.forbes.com/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.thecut.com/article/best-shampoos.html line 3124 > injectedScript, line 3: TypeError: a.data.substr is not a function
+JavaScript error: https://nymag.com/strategist/article/best-shampoos-dandruff-volumizing-thinning-dry.html line 3124 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript error: https://nymag.com/strategist/article/best-shampoos-dandruff-volumizing-thinning-dry.html, line 5436: TypeError: i.googletag.pubads is not a function
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=fF3KX-n1KJa1tAagmpjABQ&q=shampoo+for+women&oq=shampoo+for+women&gs_lcp=CgZwc3ktYWIQAzIFCAAQyQMyAggAMgIIADICCAAyAggAUP4GWK4MYMwVaABwAHgAgAGNCIgByhmSAQkzLTEuNi0xLjKYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwjpo_7H2bTtAhWWGs0KHSANBlgQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+JavaScript warning: https://nymag.com/strategist/article/best-shampoos-dandruff-volumizing-thinning-dry.html, line 4736: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nymag.com/strategist/article/best-shampoos-dandruff-volumizing-thinning-dry.html, line 4736: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nymag.com/strategist/article/best-shampoos-dandruff-volumizing-thinning-dry.html, line 4736: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nymag.com/strategist/article/best-shampoos-dandruff-volumizing-thinning-dry.html, line 4736: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nymag.com/strategist/article/best-shampoos-dandruff-volumizing-thinning-dry.html, line 4736: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nymag.com/strategist/article/best-shampoos-dandruff-volumizing-thinning-dry.html, line 4736: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nymag.com/strategist/article/best-shampoos-dandruff-volumizing-thinning-dry.html, line 4736: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nymag.com/strategist/article/best-shampoos-dandruff-volumizing-thinning-dry.html, line 4736: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nymag.com/strategist/article/best-shampoos-dandruff-volumizing-thinning-dry.html, line 4736: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nymag.com/strategist/article/best-shampoos-dandruff-volumizing-thinning-dry.html, line 4736: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nymag.com/strategist/article/best-shampoos-dandruff-volumizing-thinning-dry.html, line 4736: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nymag.com/strategist/article/best-shampoos-dandruff-volumizing-thinning-dry.html, line 4736: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://assets.hearstapps.com/assets/dist/js/article.a6cef83.js, line 1: ChunkLoadError: Loading chunk modules/nextcontent failed.
+(error: https://assets.hearstapps.com/assets/dist/js/shared/modules/nextcontent.7d04498.js)
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 183: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 183: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 183: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 183: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 183: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 183: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 183: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 183: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=fF3KX-n1KJa1tAagmpjABQ&q=shampoo+for+women&oq=shampoo+for+women&gs_lcp=CgZwc3ktYWIQAzIFCAAQyQMyAggAMgIIADICCAAyAggAUP4GWK4MYMwVaABwAHgAgAGNCIgByhmSAQkzLTEuNi0xLjKYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwjpo_7H2bTtAhWWGs0KHSANBlgQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=y13KX9upB9KP9PwPqd2J0AM&q=beard+shaving+kit&oq=beard+shaving+kit&gs_lcp=CgZwc3ktYWIQAzIFCAAQyQMyAggAMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yCAgAEBYQChAeUMMHWMkSYNQoaABwAHgAgAHdDIgBjieSAQk1LTEuMC4yLjGYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwibu7Lt2bTtAhXSB50JHaluAjoQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=1l3KX7afLoO6tAb86pW4Bg&q=ladies%27s+shaving+kit&oq=ladies%27s+shaving+kit&gs_lcp=CgZwc3ktYWIQAzIHCAAQyQMQDTIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BAgAEA06CAgAEAgQDRAeUKoIWIYSYOw2aABwAHgAgAHLHYgBgl6SAQM5LTSYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwi24vjy2bTtAhUDHc0KHXx1BWcQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+1607097837175	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607097840081	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 2966 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 2966 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1607097844750	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=fF3KX-n1KJa1tAagmpjABQ&q=shampoo+for+women&oq=shampoo+for+women&gs_lcp=CgZwc3ktYWIQAzIFCAAQyQMyAggAMgIIADICCAAyAggAUP4GWK4MYMwVaABwAHgAgAGNCIgByhmSAQkzLTEuNi0xLjKYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwjpo_7H2bTtAhWWGs0KHSANBlgQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=1l3KX7afLoO6tAb86pW4Bg&q=ladies%27s+shaving+kit&oq=ladies%27s+shaving+kit&gs_lcp=CgZwc3ktYWIQAzIHCAAQyQMQDTIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BAgAEA06CAgAEAgQDRAeUKoIWIYSYOw2aABwAHgAgAHLHYgBgl6SAQM5LTSYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwi24vjy2bTtAhUDHc0KHXx1BWcQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=1l3KX7afLoO6tAb86pW4Bg&q=ladies%27s+shaving+kit&oq=ladies%27s+shaving+kit&gs_lcp=CgZwc3ktYWIQAzIHCAAQyQMQDTIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BAgAEA06CAgAEAgQDRAeUKoIWIYSYOw2aABwAHgAgAHLHYgBgl6SAQM5LTSYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwi24vjy2bTtAhUDHc0KHXx1BWcQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=FV7KX8H-MpCrtQab9aHABQ&q=ladies%27s+shaving+kit&oq=ladies%27s+shaving+kit&gs_lcp=CgZwc3ktYWIQAzIHCAAQyQMQDTIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BAgAEA06CAgAEAgQDRAeULsGWPYKYP8RaABwAHgAgAHWBYgBpxCSAQsyLTEuMC4xLjEuMZgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiB3YKR2rTtAhWQVc0KHZt6CFgQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+1607097902789	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://scripts.mediavine.com/tags/next-luxury-new-owner.js?ver=5.5.3, line 5: TypeError: window.$mediavine.web.init is not a function
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=FV7KX8H-MpCrtQab9aHABQ&q=ladies%27s+shaving+kit&oq=ladies%27s+shaving+kit&gs_lcp=CgZwc3ktYWIQAzIHCAAQyQMQDTIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BAgAEA06CAgAEAgQDRAeULsGWPYKYP8RaABwAHgAgAHWBYgBpxCSAQsyLTEuMC4xLjEuMZgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiB3YKR2rTtAhWQVc0KHZt6CFgQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+JavaScript error: https://static.chatra.io/jscss/75551093236bf59fdae0e5ebf216bb82fabb5c98.js?meteor_js_resource=true, line 131: TypeError: Chtr.url is not a function
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=1l3KX7afLoO6tAb86pW4Bg&q=ladies%27s+shaving+kit&oq=ladies%27s+shaving+kit&gs_lcp=CgZwc3ktYWIQAzIHCAAQyQMQDTIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BAgAEA06CAgAEAgQDRAeUKoIWIYSYOw2aABwAHgAgAHLHYgBgl6SAQM5LTSYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwi24vjy2bTtAhUDHc0KHXx1BWcQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+JavaScript error: https://a.mailmunch.co/app/v1/site.js, line 1: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them
+JavaScript error: https://a.mailmunch.co/app/v1/site.js, line 1: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=FV7KX8H-MpCrtQab9aHABQ&q=ladies%27s+shaving+kit&oq=ladies%27s+shaving+kit&gs_lcp=CgZwc3ktYWIQAzIHCAAQyQMQDTIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BAgAEA06CAgAEAgQDRAeULsGWPYKYP8RaABwAHgAgAHWBYgBpxCSAQsyLTEuMC4xLjEuMZgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiB3YKR2rTtAhWQVc0KHZt6CFgQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+JavaScript error: https://www.schick.com/us/en/subscription-women, line 132: ReferenceError: $ is not defined
+JavaScript error: https://www.schick.com/_ui/addons/smarteditaddon/shared/common/js/adjustComponentRenderingToSE.js, line 14: ReferenceError: Imager is not defined
+JavaScript error: https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=LuYagg, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://static.klaviyo.com/onsite/js/profiling.76e929c1972a7b78f0c4.js)
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=1l3KX7afLoO6tAb86pW4Bg&q=ladies%27s+shaving+kit&oq=ladies%27s+shaving+kit&gs_lcp=CgZwc3ktYWIQAzIHCAAQyQMQDTIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BAgAEA06CAgAEAgQDRAeUKoIWIYSYOw2aABwAHgAgAHLHYgBgl6SAQM5LTSYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwi24vjy2bTtAhUDHc0KHXx1BWcQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=FV7KX8H-MpCrtQab9aHABQ&q=ladies%27s+shaving+kit&oq=ladies%27s+shaving+kit&gs_lcp=CgZwc3ktYWIQAzIHCAAQyQMQDTIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BAgAEA06CAgAEAgQDRAeULsGWPYKYP8RaABwAHgAgAHWBYgBpxCSAQsyLTEuMC4xLjEuMZgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiB3YKR2rTtAhWQVc0KHZt6CFgQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+JavaScript error: https://www.schick.com/us/en/subscription-women, line 132: ReferenceError: $ is not defined
+JavaScript error: https://www.schick.com/_ui/addons/smarteditaddon/shared/common/js/adjustComponentRenderingToSE.js, line 14: ReferenceError: Imager is not defined
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=FV7KX8H-MpCrtQab9aHABQ&q=ladies%27s+shaving+kit&oq=ladies%27s+shaving+kit&gs_lcp=CgZwc3ktYWIQAzIHCAAQyQMQDTIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BAgAEA06CAgAEAgQDRAeULsGWPYKYP8RaABwAHgAgAHWBYgBpxCSAQsyLTEuMC4xLjEuMZgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiB3YKR2rTtAhWQVc0KHZt6CFgQ4dUDCAg&uact=5" "with ads but couldn't find the information"
+JavaScript error: https://connect.facebook.net/en_US/sdk.js?hash=520cef5f928cec77d7169742f6a00ddf, line 97: uncaught exception: Error: init not called with valid version
+JavaScript error: https://connect.facebook.net/en_US/sdk.js?hash=520cef5f928cec77d7169742f6a00ddf, line 97: uncaught exception: Error: init not called with valid version
+JavaScript error: https://connect.facebook.net/en_US/sdk.js?hash=520cef5f928cec77d7169742f6a00ddf, line 97: uncaught exception: Error: init not called with valid version
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://cocktails.lovetoknow.com/about-cocktails/6-girly-bar-drinks-every-taste, line 314: SyntaxError: expected expression, got '}'
+JavaScript error: , line 0: uncaught exception: Error while loading gpt
+JavaScript error: https://cocktails.lovetoknow.com/about-cocktails/6-girly-bar-drinks-every-taste, line 314: SyntaxError: expected expression, got '}'
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=AF_KX43JEYa7tAbCk5XgDA&q=belts" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?q=cocktails&ei=AV_KX9qZNI3ctAaGuJog&start=10&sa=N&ved=2ahUKEwiansiB27TtAhUNLs0KHQacBgQQ8NMDegQIBBBH&biw=1366&bih=694" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=_l7KX7eYHJnKtQbghp24BA&q=belts" "with ads but couldn't find the information"
+1607098148606	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?q=cocktails&ei=_V7KX7K2Coa4tAaf8JL4CA&start=10&sa=N&ved=2ahUKEwjyqKr_2rTtAhUGHM0KHR-4BI8Q8NMDegQIBBBH&biw=1366&bih=694" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?biw=1366&bih=694&ei=GV_KX4jQIsGO9PwPie-moAk&q=belts" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?q=belts&ei=BV_KX_i3DIi3tQaIsoToBw&start=10&sa=N&ved=2ahUKEwi4zpSD27TtAhWIW80KHQgZAX0Q8NMDegQIBxB4&biw=1366&bih=694" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?q=cocktails&ei=EF_KX8D2DNeStAasvJiYBw&start=20&sa=N&ved=2ahUKEwjAvrSI27TtAhVXCc0KHSweBnM4ChDw0wN6BQgGEPIB&biw=1366&bih=694" "with ads but couldn't find the information"
+1607098182638	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?biw=1366&bih=694&ei=SF_KX-iDLZjPtQauyaH4CQ&q=belts" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?biw=1366&bih=694&ei=T1_KX7_7LMTctQbYho3wBQ&q=belts" "with ads but couldn't find the information"
+1607098218074	Marionette	INFO	Stopped listening on port 46107
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?q=belts&newwindow=1&ei=BF_KX7HOHcjctAaRpIzQCA&start=10&sa=N&ved=2ahUKEwix4OiC27TtAhVILs0KHRESA4oQ8NMDegUIBhD9AQ&biw=1366&bih=694" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?biw=1366&bih=694&ei=el_KX7CXKMq6tAa366_IAQ&q=belts" "with ads but couldn't find the information"
+1607098254083	Marionette	INFO	Stopped listening on port 46139
+1607098258568	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607098291798	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?biw=1366&bih=694&ei=JF_KX9efJ8eutQbxlJDgDQ&q=cocktails" "with ads but couldn't find the information"
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?source=hp&ei=v1_KX9mONNCqtQa3jYeABw&q=cocktails" "with ads but couldn't find the information"
+1607098318733	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?biw=1366&bih=694&ei=y1_KX4frKJ2P9PwPh5KJwAw&q=belts" "with ads but couldn't find the information"
+1607098329080	Marionette	INFO	Stopped listening on port 46437
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607098342425	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?newwindow=1&biw=1366&bih=694&ei=Rl_KX83gH9SE9PwP6KCB0AE&q=cocktails" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?q=cocktails&newwindow=1&ei=-1_KX6L3LMKLtAa2kanIDw&start=10&sa=N&ved=2ahUKEwji4Nv427TtAhXCBc0KHbZICvkQ8NMDegQIAxBL&biw=1366&bih=694" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?newwindow=1&biw=1366&bih=694&ei=BmDKX7--GMvKtQb97p7ABA&q=belts" "with ads but couldn't find the information"
+1607098384917	Marionette	INFO	Stopped listening on port 40951
