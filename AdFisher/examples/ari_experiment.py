@@ -7,9 +7,7 @@ import adfisher                     # adfisher wrapper function
 import web.pre_experiment.alexa     # collecting top sites from alexa
 import web.google_ads               # collecting ads
 
-log_file = 'orig.log.txt'
-
-# Defines the browser that will be used as a "unit" and gives it a copy of the adblock_rules
+log_file = 'gender.search.log.txt'
 
 
 def make_browser(unit_id, treatment_id):
@@ -19,15 +17,17 @@ def make_browser(unit_id, treatment_id):
 
 # Control Group treatment (blank)
 
+# Control Group treatment
+
 
 def control_treatment(unit):
-    pass
+    unit.search_and_click('site_files/mens_search.txt')
 
-# Experimental Group treatment (blank)
+# Experimental Group treatment
 
 
 def exp_treatment(unit):
-    pass
+    unit.search_and_click('site_files/womens_search.txt')
 
 # Measurement - Collects ads
 # checks all the sites that adfisher could previously collect on
@@ -35,19 +35,16 @@ def exp_treatment(unit):
 
 
 def measurement(unit):
-
-    sites = ['monster', 'google']
+    sites = ['google']
     for site in sites:
         unit.collect_ads(site=site, reloads=2, delay=5,
-                         search_terms=["jobs", "clothes"])
+                         search_terms=["belts", "cocktails"])
 
 # Shuts down the browser once we are done with it.
 
 
 def cleanup_browser(unit):
     unit.quit()
-
-# Blank analysis
 
 
 def load_results():
@@ -65,4 +62,4 @@ adfisher.do_experiment(make_unit=make_browser, treatments=[control_treatment, ex
                        load_results=load_results, test_stat=test_stat, ml_analysis=False,
                        num_blocks=1, num_units=4, timeout=2000,
                        log_file=log_file, exp_flag=True, analysis_flag=False,
-                       treatment_names=["control", "experimental"])
+                       treatment_names=["A (men's search)", "B (women's search)"])
