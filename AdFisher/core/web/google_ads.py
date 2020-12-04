@@ -43,7 +43,6 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
     def __init__(self, browser, log_file, unit_id, treatment_id, headless=False, proxy=None):
         google_search.GoogleSearchUnit.__init__(
             self, browser, log_file, unit_id, treatment_id, headless, proxy=proxy)
-#         browser_unit.BrowserUnit.__init__(self, browser, log_file, unit_id, treatment_id, headless, proxy=proxy)
 
     def collect_ads(self, reloads, delay, site, file_name=None, search_terms=None):
         if file_name == None:
@@ -167,7 +166,8 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
         def process_ads(ads, term, tim):
             for i in range(len(ads)):
                 parsed_ad = [x for x in ads[i].text.split(
-                    "\n") if x[0:1] not in ["Ad", ""]]  # really want "Ads" and "Ad" dot  but encoding error with dot
+                    # really want "Ads" and "Ad" dot  but encoding error with dot
+                    "\n") if x[0:1] not in ["Ad", ""]]
                 # some will be blank
                 if parsed_ad:
                     title = parsed_ad[0]
