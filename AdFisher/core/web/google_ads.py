@@ -38,6 +38,13 @@ def strip_tags(html):
     return s.get_data()
 
 
+def remove_newlines(text):
+    # text is a string or a list of strings
+    if type(text) is str:
+        text = [text]
+    return " ".join("; ".join(text).splitlines())
+
+
 class GoogleAdsUnit(google_search.GoogleSearchUnit):
 
     def __init__(self, browser, log_file, unit_id, treatment_id, headless=False, proxy=None):
@@ -172,7 +179,7 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
                 if parsed_ad:
                     title = parsed_ad[0]
                     url = parsed_ad[1]
-                    body = "; ".join(parsed_ad[2:])
+                    body = remove_newlines(parsed_ad[2:])
                     out_ad = tim+"@|ad - "+term+"@|"+title+"@|"+url+"@|"+body
                     out_ad = out_ad.encode("utf8")
                     # print(out_ad)
@@ -185,7 +192,8 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
                     "a cite").text.split()[0]
                 body = res[i].find_element_by_xpath(
                     "div[@class = 'IsZvec']").text
-                out_res = tim+"@|search - "+term+"@|"+title+"@|"+url+"@|"+body
+                out_res = tim+"@|search - "+term+"@|" + \
+                    title+"@|"+url+"@|"+remove_newlines(body)
                 out_res = out_res.encode("utf8")
                 # print(out_res)
                 self.log('measurement', 'ad', out_res)
@@ -207,7 +215,6 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
                 ads = WebDriverWait(driver, timeout=60).until(lambda d: d.find_elements_by_xpath(
                     ".//div[contains(@id, 'tvcap') or contains(@id, 'bottomads')]"))
 
-                # ads = driver.find_elements_by_xpath(".//div[contains(@id, 'tvcap') or contains(@id, 'bottomads')]")
                 ads = [ad for ad in ads if ad.text != ""]
 
                 # collect first page of ads
