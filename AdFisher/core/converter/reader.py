@@ -234,8 +234,8 @@ def pull_url_from_log(log_file):
         tim, linetype, linename, value, unit_id, treatment_id = interpret_log_line(
             line)
         if (linename == "visit page"):
-            urls[treatment_id] = urls.get(treatment_id, []) + [value]
-
+            urls[treatment_id] = urls.get(treatment_id, set()).union([value])
+    sys.stdout.write(".Reading complete\n")
     return urls
 
 

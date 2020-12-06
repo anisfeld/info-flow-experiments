@@ -4,7 +4,6 @@ import sys
 sys.path.append("../core")  # nopep8
 
 import adfisher                     # adfisher wrapper function
-import web.pre_experiment.alexa     # collecting top sites from alexa
 import web.google_ads               # collecting ads
 
 log_file = 'gender.search.log.txt'

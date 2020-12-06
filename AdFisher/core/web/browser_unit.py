@@ -178,6 +178,22 @@ class BrowserUnit:
             except:
                 self.log('error', 'website timeout', site)
 
+    def my_visit_sites(self, site_file, delay=5):
+        """Visits all pages in site_file"""
+        fo = open(site_file, "r")
+        for line in fo:
+            chunks = re.split("\|\|", line)
+            site = chunks[0].strip()
+            try:
+                self.driver.set_page_load_timeout(40)
+                self.driver.get(site)
+                time.sleep(delay)
+                self.log('treatment', 'visit website', site)
+                # pref = get_ad_pref(self.driver)
+                # self.log("pref"+"||"+str(treatment_id)+"||"+"@".join(pref), self.unit_id)
+            except:
+                self.log('error', 'website timeout', site)
+
     def collect_sites_from_alexa(self, alexa_link, output_file="sites.txt", num_sites=5):
         """Collects sites from Alexa and stores them in file_name"""
         fo = open(output_file, "w")
