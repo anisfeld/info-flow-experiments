@@ -85,7 +85,7 @@ def do_experiment(make_unit, treatments, measurement, end_unit,
             classifier, observed_values, unit_assignments = analysis.ml.train_and_test(X, y, 
                                                    splittype='timed', 
                                                    splitfrac=0.2, 
-                                                   nfolds=10,
+                                                   nfolds=5,
                                                    verbose=True)
             # use classifier and features here to get top ads
 #             print "Extracting top features\n"

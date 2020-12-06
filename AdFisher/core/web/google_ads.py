@@ -40,9 +40,7 @@ def strip_tags(html):
 
 def remove_newlines(text):
     # text is a string or a list of strings
-    if type(text) is str:
-        text = [text]
-    return " ".join("; ".join(text).splitlines())
+    return " ".join("".join(text).splitlines())
 
 
 class GoogleAdsUnit(google_search.GoogleSearchUnit):
