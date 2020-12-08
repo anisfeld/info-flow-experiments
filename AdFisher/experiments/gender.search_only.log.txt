@@ -3077,3 +3077,5 @@
 2020-12-07 01:51:57.056825||event||progress-marker||measurement-end||2||1
 2020-12-07 01:54:09.142302||error||block timeout||Error||1||0
 2020-12-07 01:54:09.145265||error||collecting ads||Error||0||1
+2020-12-07 20:36:54.413645||error||collecting ads||Error||0||1
+2020-12-07 20:36:54.413871||event||progress-marker||measurement-end||0||1
