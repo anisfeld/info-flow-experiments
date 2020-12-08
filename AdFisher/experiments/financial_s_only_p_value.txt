@@ -1,0 +1,30 @@
+Reading log.................Reading complete
+Treatments:  ["A (men's search)", "B (women's search)"]
+Creating feature vectors-->>Complete
+---Time for getting feature vectors:  0:00:00.201109
+Number of blocks in log:  16
+Number of agents in a block:  4
+Size of feature vector:  43
+Total count of features:  3337
+[treatments] [blocks] [features] [unique-features] ::  [0 1] [32 32] [1627, 1710] [34. 43.]
+
+Split at block  12
+Training Set size:  12 blocks
+Testing Set size:  4 blocks
+Max score:  0.7583333333333334
+Selected Classifier: 
+LogisticRegression(C=128.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+---Time for selecting classifier:  0:00:00.221545
+CVscore:  0.7583333333333334
+Test accuracy:  0.5625
+Running permutation test
+
+Tobs:  9
+---Time for running permutation test:  0:00:00.401106
+
+Confidence Interval of p-value: (0.48517433652902586, 0.5110274803129891)
+p-value:  0.4981
+Demo analysis complete.
