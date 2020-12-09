@@ -241,3 +241,29 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
                 # try next page
                 driver.find_element_by_xpath(
                     "//span[contains(text(), 'Next')]").click()
+
+    def save_youtube_recommendations(self, file, n_videos=11):
+        driver = self.driver
+        id = self.unit_id
+        sys.stdout.write(".")
+        sys.stdout.flush()
+        driver.set_page_load_timeout(60)
+        driver.get("http://www.youtube.com/")
+        tim = str(datetime.now())
+
+        videos = driver.find_elements_by_id("details")
+
+        for i in range(n_videos):
+
+            parsed_video = [x for x in videos[i].text.split("\n") if x not in [
+                ""]]
+
+            if parsed_video:
+                title = parsed_video[0]
+                user = parsed_video[1]
+                views = parsed_video[2]
+                age = parsed_video[3]
+                out = tim+"@|youtube@|"+title+"@|"+user+"@|"+views+"@|"+age
+                out = out.encode("utf8")
+                # print(out_ad)
+                self.log('measurement', 'ad', out)
