@@ -6,9 +6,10 @@ sys.path.append("../core")  # nopep8
 import adfisher                     # adfisher wrapper function
 import web.google_ads               # collecting ads
 
-log_file = 'financial.gender.search_only.log.txt'
-search_terms = ["finances","quick money", "need cash"]
-
+log_file = 'scanty.gender.search_only.log.txt'
+# search_terms = ["finances","quick money", "need cash"]
+# search_terms = ["apply to college", "what major should i study", "pick a college"]
+search_terms = ["bikini", "bra"]
 
 def make_browser(unit_id, treatment_id):
     b = web.google_ads.GoogleAdsUnit(log_file=log_file, unit_id=unit_id,
