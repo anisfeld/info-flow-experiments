@@ -65,6 +65,8 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
                     self.save_ads_monster(file_name)
                 elif(site == 'google'):
                     self.save_ads_google(file_name, search_terms)
+                elif(site == 'youtube'):
+                    self.save_youtube_recommendations(file_name)
                 else:
                     raw_input("No such site found: %s!" % site)
                 e = datetime.now()

@@ -9,6 +9,7 @@ import web.google_ads               # collecting ads
 log_file = 'school_b.gender.search.log.txt'
 search_terms = ["what major should i study", "degree programs"]
 
+
 def make_browser(unit_id, treatment_id):
     b = web.google_ads.GoogleAdsUnit(log_file=log_file, unit_id=unit_id,
                                      treatment_id=treatment_id, headless=True, browser="firefox")
