@@ -131,23 +131,22 @@ class GoogleSearchUnit(browser_unit.BrowserUnit):
                 time.sleep(clickdelay)
         fo.close()
 
+    def search_no_click(self, query_file, clickdelay=8, clickcount=5):
 
-def search_no_click(self, query_file, clickdelay=8, clickcount=5):
+        fo = open(query_file, "r")
 
-    fo = open(query_file, "r")
-
-    for line in fo:
-        q = line.strip()
-        print "\nsearch query: ", q
-        try:
-            self.driver.get("http://www.google.com/")
-            time.sleep(1)
-            self.driver.find_element_by_name("q").clear()
-            self.driver.find_element_by_name("q").send_keys(q)
-            self.driver.find_element_by_name("q").send_keys(Keys.RETURN)
-            self.log('treatment', 'google search', q)
-        except:
-            self.log('error', 'google search', q)
-            self.driver.save_screenshot(
-                str(self.unit_id)+'_search'+str(s)+'.jpg')
-    fo.close()
+        for line in fo:
+            q = line.strip()
+            print "\nsearch query: ", q
+            try:
+                self.driver.get("http://www.google.com/")
+                time.sleep(1)
+                self.driver.find_element_by_name("q").clear()
+                self.driver.find_element_by_name("q").send_keys(q)
+                self.driver.find_element_by_name("q").send_keys(Keys.RETURN)
+                self.log('treatment', 'google search', q)
+            except:
+                self.log('error', 'google search', q)
+                self.driver.save_screenshot(
+                    str(self.unit_id)+'_search'+str(s)+'.jpg')
+        fo.close()
