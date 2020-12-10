@@ -18,13 +18,13 @@ def make_browser(unit_id, treatment_id):
 
 # Control Group treatment
 def control_treatment(unit):
-    unit.search_and_click('site_files/mens_search.txt')
+    unit.search_no_click('site_files/mens_search.txt')
 
 # Experimental Group treatment
 
 
 def exp_treatment(unit):
-    unit.search_and_click('site_files/womens_search.txt')
+    unit.search_no_click('site_files/womens_search.txt')
 
 # Measurement - Collects ads
 # checks all the sites that adfisher could previously collect on
@@ -32,7 +32,7 @@ def exp_treatment(unit):
 
 
 def measurement(unit):
-    sites = ['youtube']
+    sites = ['google']
     for site in sites:
         unit.collect_ads(site=site, reloads=2, delay=5,
                          search_terms=search_terms)
@@ -57,6 +57,6 @@ def test_stat(observed_values, unit_assignments):
 adfisher.do_experiment(make_unit=make_browser, treatments=[control_treatment, exp_treatment],
                        measurement=measurement, end_unit=cleanup_browser,
                        load_results=load_results, test_stat=test_stat, ml_analysis=False,
-                       num_blocks=4, num_units=4, timeout=1000,
+                       num_blocks=8, num_units=4, timeout=1000,
                        log_file=log_file, exp_flag=True, analysis_flag=False,
                        treatment_names=["A (men's search)", "B (women's search)"])
