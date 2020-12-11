@@ -1,0 +1,149 @@
+Reading log.................Reading complete
+Treatments:  ["A (men's search)", "B (women's search)"]
+Creating feature vectors-->>Complete
+---Time for getting feature vectors:  0:00:00.172917
+Number of blocks in log:  16
+Number of agents in a block:  4
+Size of feature vector:  39
+Total count of features:  2892
+[treatments] [blocks] [features] [unique-features] ::  [0 1] [32 32] [1451, 1441] [39. 39.]
+
+Split at block  12
+Training Set size:  12 blocks
+Testing Set size:  4 blocks
+Max score:  0.5333333333333334
+Selected Classifier: 
+LogisticRegression(C=2.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+---Time for selecting classifier:  0:00:00.308523
+CVscore:  0.5333333333333334
+Test accuracy:  0.625
+
+Top features for treatment experimental:
+0.9800204028918865
+Title: |search - pick a college
+URL: |College Match | Find the right college with College Raptor
+Body: |www.collegeraptor.com
+
+0.740480824220974
+Title: |search - pick a college
+URL: |How do I pick the right college for me? | College Scholarships ...
+Body: |www.collegescholarshipsusa.com
+
+0.6307176024145201
+Title: |search - pick a college
+URL: |How to Choose a College: A Complete Guide - College Raptor
+Body: |www.collegeraptor.com
+
+0.5265571893520681
+Title: |search - degree programs
+URL: |Degree Programs | University of Colorado Boulder
+Body: |www.colorado.edu
+
+0.48868220024595355
+Title: |search - what major should i study
+URL: |Career test - What career should I have? - Education Abroad
+Body: |www.educations.com
+
+
+
+Top features for treatment control:
+-1.1123769679899973
+Title: |search - pick a college
+URL: |How To Choose A College That's Right For You : NPR
+Body: |www.npr.org
+
+-0.5352323830833906
+Title: |search - degree programs
+URL: |Degree Programs | Harvard University - The Graduate School ...
+Body: |gsas.harvard.edu
+
+-0.4449897316946188
+Title: |search - what major should i study
+URL: |What Should I Major In? How to Choose a Major in 9 Steps
+Body: |zety.com
+
+-0.42163978941673763
+Title: |ad - what major should i study
+URL: |Ads
+Body: |Take This Career Quiz, Free - See A Career Test Made For You
+
+-0.2341879227896158
+Title: |search - degree programs
+URL: |List of Majors and Degree Programs - Lamar University
+Body: |www.lamar.edu
+
+Frequency of top ads:
+
+Title: |search - pick a college
+URL: |How To Choose A College That's Right For You : NPR
+Body: |www.npr.org
+
+[41. 39.]
+----------------------------------
+Title: |search - degree programs
+URL: |Degree Programs | Harvard University - The Graduate School ...
+Body: |gsas.harvard.edu
+
+[35. 27.]
+----------------------------------
+Title: |search - what major should i study
+URL: |What Should I Major In? How to Choose a Major in 9 Steps
+Body: |zety.com
+
+[27. 12.]
+----------------------------------
+Title: |ad - what major should i study
+URL: |Ads
+Body: |Take This Career Quiz, Free - See A Career Test Made For You
+
+[27. 16.]
+----------------------------------
+Title: |search - degree programs
+URL: |List of Majors and Degree Programs - Lamar University
+Body: |www.lamar.edu
+
+[19. 25.]
+----------------------------------
+%%%%----------------------------------%%%%
+Title: |search - pick a college
+URL: |College Match | Find the right college with College Raptor
+Body: |www.collegeraptor.com
+
+[38. 41.]
+----------------------------------
+Title: |search - pick a college
+URL: |How do I pick the right college for me? | College Scholarships ...
+Body: |www.collegescholarshipsusa.com
+
+[ 7. 15.]
+----------------------------------
+Title: |search - pick a college
+URL: |How to Choose a College: A Complete Guide - College Raptor
+Body: |www.collegeraptor.com
+
+[9. 9.]
+----------------------------------
+Title: |search - degree programs
+URL: |Degree Programs | University of Colorado Boulder
+Body: |www.colorado.edu
+
+[37. 38.]
+----------------------------------
+Title: |search - what major should i study
+URL: |Career test - What career should I have? - Education Abroad
+Body: |www.educations.com
+
+[17. 27.]
+----------------------------------
+%%%%----------------------------------%%%%
+Running permutation test
+
+Tobs:  10
+---Time for running permutation test:  0:00:00.399339
+
+Confidence Interval of p-value: (0.24000092353190317, 0.2624372762091932)
+p-value:  0.2511
+Demo analysis complete.
