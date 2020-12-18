@@ -6,8 +6,8 @@ sys.path.append("../core")  # nopep8
 import adfisher                     # adfisher wrapper function
 import web.google_ads               # collecting ads
 
-log_file = 'school_b.gender.search.log.txt'
-search_terms = ["what major should i study", "degree programs"]
+log_file = 'big.gender.search.log.txt'
+search_terms = ["what major should i study", "degree programs", "pick a college"]
 
 
 def make_browser(unit_id, treatment_id):
@@ -22,7 +22,6 @@ def make_browser(unit_id, treatment_id):
 
 def control_treatment(unit):
     unit.search_and_click('site_files/mens_search.txt')
-
 # Experimental Group treatment
 
 
@@ -60,6 +59,6 @@ def test_stat(observed_values, unit_assignments):
 adfisher.do_experiment(make_unit=make_browser, treatments=[control_treatment, exp_treatment],
                        measurement=measurement, end_unit=cleanup_browser,
                        load_results=load_results, test_stat=test_stat, ml_analysis=False,
-                       num_blocks=10, num_units=4, timeout=1400,
+                       num_blocks=30, num_units=4, timeout=1400,
                        log_file=log_file, exp_flag=True, analysis_flag=False,
                        treatment_names=["A (men's search)", "B (women's search)"])

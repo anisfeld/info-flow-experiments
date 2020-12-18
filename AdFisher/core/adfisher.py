@@ -9,7 +9,7 @@ import sys,os
 def do_experiment(make_unit, treatments, measurement, end_unit,
           load_results, test_stat, ml_analysis, 
           num_blocks=1, num_units=2, timeout=2000,
-          log_file="log.txt", exp_flag=True, analysis_flag=True, treatment_names=[]): 
+          log_file="log.txt", exp_flag=True, analysis_flag=True, treatment_names=["A (men's search)", "B (women's search)"]): 
     """
     Run an experiment.
 
@@ -89,8 +89,8 @@ def do_experiment(make_unit, treatments, measurement, end_unit,
                                                    verbose=True)
             # use classifier and features here to get top ads
 #             print "Extracting top features\n"
-#             topk0, topk1 = analysis.ml.print_only_top_features(classifier, features, treatment_names, feat_choice="ads")
-#             analysis.statistics.print_frequencies(X, y, features, topk0, topk1)
+            topk0, topk1 = analysis.ml.print_only_top_features(classifier, features, treatment_names, feat_choice="ads")
+            analysis.statistics.print_frequencies(X, y, features, topk0, topk1)
             
             print "Running permutation test\n"
             p_value = analysis.permutation_test.blocked_sampled_test(observed_values, unit_assignments, 

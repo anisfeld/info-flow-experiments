@@ -6,7 +6,7 @@ sys.path.append("../core")  # nopep8
 import adfisher                     # adfisher wrapper function
 import web.google_ads               # collecting ads
 
-log_file = 'youtube.log.txt'
+log_file = 'search_only_3.log.txt'
 search_terms = ["belts", "cocktails"]
 
 
@@ -57,6 +57,6 @@ def test_stat(observed_values, unit_assignments):
 adfisher.do_experiment(make_unit=make_browser, treatments=[control_treatment, exp_treatment],
                        measurement=measurement, end_unit=cleanup_browser,
                        load_results=load_results, test_stat=test_stat, ml_analysis=False,
-                       num_blocks=8, num_units=4, timeout=1000,
+                       num_blocks=12, num_units=4, timeout=1000,
                        log_file=log_file, exp_flag=True, analysis_flag=False,
                        treatment_names=["A (men's search)", "B (women's search)"])
