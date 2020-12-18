@@ -1,0 +1,149 @@
+Reading log.................Reading complete
+Treatments:  ["A (men's search)", "B (women's search)"]
+Creating feature vectors-->>Complete
+---Time for getting feature vectors:  0:00:00.341722
+Number of blocks in log:  16
+Number of agents in a block:  4
+Size of feature vector:  114
+Total count of features:  2986
+[treatments] [blocks] [features] [unique-features] ::  [0 1] [32 32] [1515, 1471] [90. 78.]
+
+Split at block  12
+Training Set size:  12 blocks
+Testing Set size:  4 blocks
+Max score:  0.6166666666666666
+Selected Classifier: 
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+---Time for selecting classifier:  0:00:00.274350
+CVscore:  0.6166666666666666
+Test accuracy:  0.75
+
+Top features for treatment experimental:
+0.9273745713775209
+Title: |ad - degree programs
+URL: |Online Courses For Busy Adults - Top Online Degree Programs
+Body: |Ad·www.educationconnection.com/Online Degree Programs Matched to You. Free Online College Finder Here! Pursue Your Degree While Easily Balancing Your Responsibilities At Work and Home. Over 2M Students Served. 100% Free Matching Engine. Easy 3-Step Process. Get Matched For Free.100% Online Education · Top Online Colleges · Free Financial Aid Info
+
+0.6899695095355671
+Title: |ad - degree programs
+URL: |Capella University - Earn Your Degree In 12 Months
+Body: |Ad·www.capella.edu/degree-programs/onlineAssumes Accelerated Pace. Price Varies By Your Pace & Transfer Credits. Other Fees Apply. FlexPath: Take Classes At Your Own Speed—The Faster You Move, The More You Save. Self-Paced Learning. Support At Every Step. Accredited University.Bachelor's Degrees · PhD Degrees · Scholarships Available · Education ProgramsOnline Courses For Busy Adults - Top Online Degree ProgramsAd·www.educationconnection.com/Online Degree Programs Matched to You. Free Online College Finder Here! Pursue Your Degree While Easily Balancing Your Responsibilities At Work and Home. Easy 3-Step Process. Over 2M Students Served. Get Matched For Free. 100% Free Matching Engine.100% Online Education · Top Online Colleges · Free Financial Aid InfoList Of Degree Programs - Search List Of Degree ProgramsAd·www.fastquicksearch.com/searchnowFind List Of Degree Programs. Get Useful Information In Seconds. Visit Today & Quickly Get More Results On Fastquicksearch.com! Best Results. Reliable Articles. Accurate Results. Related Info. Fast Search. Trusted Sources. Curated Articles. Explore More.
+
+0.5985480650233451
+Title: |search - pick a college
+URL: |How to Choose a College: A Complete Guide - College Raptor
+Body: |www.collegeraptor.com
+
+0.5779249884576672
+Title: |ad - pick a college
+URL: |DeVry University - Degree Programs For Students - DeVry.edu
+Body: |Ad·www.devry.edu/(866) 605-2708Year-Round Class Offerings To Earn Your Degree On Your Schedule. Apply Today. MBA + Concentrations. Grants and Scholarships. Graduate Certificates. Accounting Degree. Software Development. Medical Billing & Coding. Multiple Business Tracks. Transfer Credits.Online OptionsFind Flexibility So You Can Schedule Class To Fit Your Life.Health SciencesBuild Your Health Sciences Career With Our Stackable Degree Programs.Tech and EngineeringHands-On Learning For Today's Engineering Tech Careers.Campus LocationsCampus Options Are Available Find Locations Nationwide.
+
+0.5674534741542813
+Title: |ad - pick a college
+URL: |DeVry University - Year-Round Class Offerings
+Body: |Ad·www.devry.edu/(866) 605-2708Prepare For Your Future With A Degree From DeVry University. Apply Online Today. Healthcare Technology. Flexible Classes. Accounting Degree. Bachelor Degree Programs. Computer Networking. Affordable. Associate Degree Programs. Tech Core.MilitarySupporting Our Active DutyAnd Veterans Who Serve Us.Transfer CreditsApply to Up To 80 Hours Toward YourBachelor's Degree Program.Financial AidThe Path To Your Future Can Be MoreAffordable Than You Think.Business DegreesComplete Your Degree in Accounting,Business, or Management.
+
+
+
+Top features for treatment control:
+-0.8110970744866315
+Title: |ad - degree programs
+URL: |100% Online Degree Programs | Univ Arizona Global...
+Body: |Ad·www.uagc.edu/degree-program/online(866) 347-7781Enroll to Earn Your Degree in a 100% Online Program from UAGC, Apply Today to Get Started. 24/7 Classroom Access & Support from Your Computer, Phone, or Tablet. Contact UAGC Today! Invest In Your Future. 5-6 Week Courses. Take 1 Course at a Time.Admissions & Enrollment · Stand Out on Your Resume · Knowledge Within ReachDeVry University Online | Certificate & Degree OptionsAd·www.devry.edu/(866) 605-2708Learn About Technology, Earn A Degree In Programming, Engineering, or Computer Networking. Technology Is Our Backbone, Software Development Networking & Engineering Available. Software Development. Transfer Credits. Affordable. Nationwide Locations.Tech and Engineering · Campus Locations · Online Options · Health Sciences · Financial Aid2020 Top Online Universities | Study From Home On Your...Ad·www.educationconnection.com/Our Rich Resources Help Students Match Their Personal Interests To Specific Career Goals. Get Connected to Your Online University 100% Free! Locate Top Universities Now. Get Matched For Free. 100% Free Matching Engine. Over 2M Students Served.100% Online Education · Free Financial Aid Info · Online Business Degree
+
+-0.5144538523657067
+Title: |ad - pick a college
+URL: |DeVry University - Degree Programs For Students
+Body: |Ad·www.devry.edu/(866) 605-2708Year-Round Class Offerings To Earn Your Degree On Your Schedule. Apply Today. Graduate Certificates. Accounting Degree. Tech Core. Nationwide Locations. Software Development. Bachelor Degree Programs. Medical Billing & Coding.Online Options · Health Sciences · Tech and Engineering · Campus Locations · MilitaryChoosing A College - Tips & AdviceAd·www.myfuture.com/Learn the Difference Types of Schools and What to Look for When Comparing Them. Explore Resources. Search Schools. Highlights: College Interview Tips Available, Campus Visiting Tips Available, Financial Aid Available.Your Best Fit - Custom College RankingsAd·www.niche.com/Choose what's most important to you and create your own college rankings. Choose from a dozen factors including dorms, party scene, academics, location, and more.2021 College Rankings · Top Liberal Arts Colleges · Top Public Universities
+
+-0.500488015674971
+Title: |ad - pick a college
+URL: |Online or On-Campus Options - Classes Start Every 8 Weeks
+Body: |Ad·www.devry.edu/(866) 605-2708Build Your Future In Business, Tech & Health. Start Planning Your Path Today. Bachelor's & Associate Degree Programs To Help Build Your Future. Medical Billing & Coding. Tech Core. Associate Degree Programs. Software Development. Transfer Credits. Accounting Degree.
+
+-0.46973705475091493
+Title: |ad - degree programs
+URL: |100% Online Degree Programs - Univ Arizona Global...
+Body: |Ad·https://www.uagc.edu/degree-program/online(866) 347-7781Invest in Your Future in a 100% Online Degree Program at UAGC, Apply Today to Get Started. 5-6 Week Online Courses Designed to Fit Your Schedule, Contact UAGC Today to Get Started! Flexible & Interactive. Get Your Degree from Home. 100% Online Education.Admissions & Enrollment · Transfer Existing Credits · 60+ Online Degrees
+
+-0.41954271456690584
+Title: |ad - pick a college
+URL: |Get Help In Choosing a Major - Study At Your Own Pace
+Body: |Ad·www.educationconnection.com/Our Rich Resources Help Students Match Their Personal Interests To Specific Career Goals. Pursue Your Degree While Easily Balancing Your Responsibilities At Work and Home. Over 2M Students Served. 100% Free Matching Engine. Easy 3-Step Process.Certificate Programs · Online Degree ProgramsA Virtual-Internship Platform - Free for studentsAd·www.stemaway.com/Applications for the Summer 2021 internship session are now open. Cutting edge projects. 6 career pathways. 3 Levels.Shreyaxc Bioinformatics · About STEM-Away Forums · Adya Tulsian · STEM-AwayChoosing A College - Tips & AdviceAd·www.myfuture.com/Learn the Difference Types of Schools and What to Look for When Comparing Them. Explore Resources. Search Schools. Highlights: College Interview Tips Available, Campus Visiting Tips Available, Financial Aid Available.
+
+Frequency of top ads:
+
+Title: |ad - degree programs
+URL: |100% Online Degree Programs | Univ Arizona Global...
+Body: |Ad·www.uagc.edu/degree-program/online(866) 347-7781Enroll to Earn Your Degree in a 100% Online Program from UAGC, Apply Today to Get Started. 24/7 Classroom Access & Support from Your Computer, Phone, or Tablet. Contact UAGC Today! Invest In Your Future. 5-6 Week Courses. Take 1 Course at a Time.Admissions & Enrollment · Stand Out on Your Resume · Knowledge Within ReachDeVry University Online | Certificate & Degree OptionsAd·www.devry.edu/(866) 605-2708Learn About Technology, Earn A Degree In Programming, Engineering, or Computer Networking. Technology Is Our Backbone, Software Development Networking & Engineering Available. Software Development. Transfer Credits. Affordable. Nationwide Locations.Tech and Engineering · Campus Locations · Online Options · Health Sciences · Financial Aid2020 Top Online Universities | Study From Home On Your...Ad·www.educationconnection.com/Our Rich Resources Help Students Match Their Personal Interests To Specific Career Goals. Get Connected to Your Online University 100% Free! Locate Top Universities Now. Get Matched For Free. 100% Free Matching Engine. Over 2M Students Served.100% Online Education · Free Financial Aid Info · Online Business Degree
+
+[2. 0.]
+----------------------------------
+Title: |ad - pick a college
+URL: |DeVry University - Degree Programs For Students
+Body: |Ad·www.devry.edu/(866) 605-2708Year-Round Class Offerings To Earn Your Degree On Your Schedule. Apply Today. Graduate Certificates. Accounting Degree. Tech Core. Nationwide Locations. Software Development. Bachelor Degree Programs. Medical Billing & Coding.Online Options · Health Sciences · Tech and Engineering · Campus Locations · MilitaryChoosing A College - Tips & AdviceAd·www.myfuture.com/Learn the Difference Types of Schools and What to Look for When Comparing Them. Explore Resources. Search Schools. Highlights: College Interview Tips Available, Campus Visiting Tips Available, Financial Aid Available.Your Best Fit - Custom College RankingsAd·www.niche.com/Choose what's most important to you and create your own college rankings. Choose from a dozen factors including dorms, party scene, academics, location, and more.2021 College Rankings · Top Liberal Arts Colleges · Top Public Universities
+
+[12.  5.]
+----------------------------------
+Title: |ad - pick a college
+URL: |Online or On-Campus Options - Classes Start Every 8 Weeks
+Body: |Ad·www.devry.edu/(866) 605-2708Build Your Future In Business, Tech & Health. Start Planning Your Path Today. Bachelor's & Associate Degree Programs To Help Build Your Future. Medical Billing & Coding. Tech Core. Associate Degree Programs. Software Development. Transfer Credits. Accounting Degree.
+
+[12.  2.]
+----------------------------------
+Title: |ad - degree programs
+URL: |100% Online Degree Programs - Univ Arizona Global...
+Body: |Ad·https://www.uagc.edu/degree-program/online(866) 347-7781Invest in Your Future in a 100% Online Degree Program at UAGC, Apply Today to Get Started. 5-6 Week Online Courses Designed to Fit Your Schedule, Contact UAGC Today to Get Started! Flexible & Interactive. Get Your Degree from Home. 100% Online Education.Admissions & Enrollment · Transfer Existing Credits · 60+ Online Degrees
+
+[11.  3.]
+----------------------------------
+Title: |ad - pick a college
+URL: |Get Help In Choosing a Major - Study At Your Own Pace
+Body: |Ad·www.educationconnection.com/Our Rich Resources Help Students Match Their Personal Interests To Specific Career Goals. Pursue Your Degree While Easily Balancing Your Responsibilities At Work and Home. Over 2M Students Served. 100% Free Matching Engine. Easy 3-Step Process.Certificate Programs · Online Degree ProgramsA Virtual-Internship Platform - Free for studentsAd·www.stemaway.com/Applications for the Summer 2021 internship session are now open. Cutting edge projects. 6 career pathways. 3 Levels.Shreyaxc Bioinformatics · About STEM-Away Forums · Adya Tulsian · STEM-AwayChoosing A College - Tips & AdviceAd·www.myfuture.com/Learn the Difference Types of Schools and What to Look for When Comparing Them. Explore Resources. Search Schools. Highlights: College Interview Tips Available, Campus Visiting Tips Available, Financial Aid Available.
+
+[1. 0.]
+----------------------------------
+%%%%----------------------------------%%%%
+Title: |ad - degree programs
+URL: |Online Courses For Busy Adults - Top Online Degree Programs
+Body: |Ad·www.educationconnection.com/Online Degree Programs Matched to You. Free Online College Finder Here! Pursue Your Degree While Easily Balancing Your Responsibilities At Work and Home. Over 2M Students Served. 100% Free Matching Engine. Easy 3-Step Process. Get Matched For Free.100% Online Education · Top Online Colleges · Free Financial Aid Info
+
+[1. 7.]
+----------------------------------
+Title: |ad - degree programs
+URL: |Capella University - Earn Your Degree In 12 Months
+Body: |Ad·www.capella.edu/degree-programs/onlineAssumes Accelerated Pace. Price Varies By Your Pace & Transfer Credits. Other Fees Apply. FlexPath: Take Classes At Your Own Speed—The Faster You Move, The More You Save. Self-Paced Learning. Support At Every Step. Accredited University.Bachelor's Degrees · PhD Degrees · Scholarships Available · Education ProgramsOnline Courses For Busy Adults - Top Online Degree ProgramsAd·www.educationconnection.com/Online Degree Programs Matched to You. Free Online College Finder Here! Pursue Your Degree While Easily Balancing Your Responsibilities At Work and Home. Easy 3-Step Process. Over 2M Students Served. Get Matched For Free. 100% Free Matching Engine.100% Online Education · Top Online Colleges · Free Financial Aid InfoList Of Degree Programs - Search List Of Degree ProgramsAd·www.fastquicksearch.com/searchnowFind List Of Degree Programs. Get Useful Information In Seconds. Visit Today & Quickly Get More Results On Fastquicksearch.com! Best Results. Reliable Articles. Accurate Results. Related Info. Fast Search. Trusted Sources. Curated Articles. Explore More.
+
+[1. 7.]
+----------------------------------
+Title: |search - pick a college
+URL: |How to Choose a College: A Complete Guide - College Raptor
+Body: |www.collegeraptor.com
+
+[21. 34.]
+----------------------------------
+Title: |ad - pick a college
+URL: |DeVry University - Degree Programs For Students - DeVry.edu
+Body: |Ad·www.devry.edu/(866) 605-2708Year-Round Class Offerings To Earn Your Degree On Your Schedule. Apply Today. MBA + Concentrations. Grants and Scholarships. Graduate Certificates. Accounting Degree. Software Development. Medical Billing & Coding. Multiple Business Tracks. Transfer Credits.Online OptionsFind Flexibility So You Can Schedule Class To Fit Your Life.Health SciencesBuild Your Health Sciences Career With Our Stackable Degree Programs.Tech and EngineeringHands-On Learning For Today's Engineering Tech Careers.Campus LocationsCampus Options Are Available Find Locations Nationwide.
+
+[1. 3.]
+----------------------------------
+Title: |ad - pick a college
+URL: |DeVry University - Year-Round Class Offerings
+Body: |Ad·www.devry.edu/(866) 605-2708Prepare For Your Future With A Degree From DeVry University. Apply Online Today. Healthcare Technology. Flexible Classes. Accounting Degree. Bachelor Degree Programs. Computer Networking. Affordable. Associate Degree Programs. Tech Core.MilitarySupporting Our Active DutyAnd Veterans Who Serve Us.Transfer CreditsApply to Up To 80 Hours Toward YourBachelor's Degree Program.Financial AidThe Path To Your Future Can Be MoreAffordable Than You Think.Business DegreesComplete Your Degree in Accounting,Business, or Management.
+
+[1. 3.]
+----------------------------------
+%%%%----------------------------------%%%%
+Running permutation test
+
+Tobs:  12
+---Time for running permutation test:  0:00:00.392578
+
+Confidence Interval of p-value: (0.0664540491139617, 0.07995625174688947)
+p-value:  0.073
+Demo analysis complete.

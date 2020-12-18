@@ -1,0 +1,367 @@
+2020-12-09 14:39:51.357284||meta||agents||4
+2020-12-09 14:39:51.357424||meta||treatnames||A (men's search)@|B (women's search)
+2020-12-09 14:39:51.358050||meta||block_id start||0
+2020-12-09 14:39:51.358085||meta||assignment||2@|1@|0@|3
+2020-12-09 14:40:18.819609||event||progress-marker||training-start||3||1
+2020-12-09 14:40:23.599648||treatment||google search||clothes||3||1
+2020-12-09 14:40:24.141705||event||progress-marker||training-start||1||0
+2020-12-09 14:40:24.244474||event||progress-marker||training-start||0||1
+2020-12-09 14:40:24.437066||event||progress-marker||training-start||2||0
+2020-12-09 14:40:25.101841||error||visiting||google searchresults||3||1
+2020-12-09 14:40:32.275229||treatment||google search||men's clothes||2||0
+2020-12-09 14:40:32.542712||error||visiting||google searchresults||2||0
+2020-12-09 14:40:33.713486||treatment||google search||clothes||0||1
+2020-12-09 14:40:34.813994||treatment||google search||men's clothes||1||0
+2020-12-09 14:40:35.114931||error||visiting||google searchresults||1||0
+2020-12-09 14:40:35.318394||error||visiting||google searchresults||0||1
+2020-12-09 14:40:44.526830||error||visiting||google searchresults||2||0
+2020-12-09 14:40:45.907816||error||visiting||google searchresults||1||0
+2020-12-09 14:40:47.147612||treatment||visit page||https://www.asos.com/us/women/||3||1
+2020-12-09 14:40:52.603264||error||visiting||google searchresults||2||0
+2020-12-09 14:40:53.979788||error||visiting||google searchresults||1||0
+2020-12-09 14:40:59.279474||treatment||visit page||https://www.asos.com/us/women/||0||1
+2020-12-09 14:41:00.696468||error||visiting||google searchresults||2||0
+2020-12-09 14:41:02.044973||error||visiting||google searchresults||1||0
+2020-12-09 14:41:08.796202||error||visiting||google searchresults||2||0
+2020-12-09 14:41:09.412230||treatment||visit page||https://www.theguardian.com/fashion/2020/jul/14/fast-fashion-20-ways-stop-buying-new-clothes-fair-wage-wardrobes||3||1
+2020-12-09 14:41:10.147176||error||visiting||google searchresults||1||0
+2020-12-09 14:41:21.350941||treatment||google search||leather belts||1||0
+2020-12-09 14:41:21.774195||treatment||visit page||https://www.theguardian.com/fashion/2020/jul/14/fast-fashion-20-ways-stop-buying-new-clothes-fair-wage-wardrobes||0||1
+2020-12-09 14:41:23.490102||error||visiting||google searchresults||1||0
+2020-12-09 14:41:32.787949||treatment||google search||leather belts||2||0
+2020-12-09 14:41:32.954850||error||visiting||google searchresults||2||0
+2020-12-09 14:41:40.146981||treatment||visit page||https://www.nytimes.com/interactive/2019/climate/sustainable-clothing.html||3||1
+2020-12-09 14:41:43.208084||treatment||visit page||https://www.google.com/search?source=hp&ei=bjbRX5m6GMSqtQaasIYw&q=leather+belts&btnK=Google+Search||1||0
+2020-12-09 14:42:01.861839||treatment||visit page||https://www.nytimes.com/interactive/2019/climate/sustainable-clothing.html||0||1
+2020-12-09 14:42:11.062308||error||visiting||google searchresults||1||0
+2020-12-09 14:42:14.536573||treatment||visit page||https://www.macys.com/shop/mens-clothing/mens-belts-suspenders?id=47673||2||0
+2020-12-09 14:42:20.716660||error||visiting||google searchresults||1||0
+2020-12-09 14:42:29.538197||error||visiting||google searchresults||1||0
+2020-12-09 14:42:43.650710||treatment||visit page||https://www.macys.com/shop/mens-clothing/mens-belts-suspenders/Belt_material/Leather?id=47673||2||0
+2020-12-09 14:42:46.771702||treatment||visit page||https://www2.hm.com/en_us/women/new-arrivals/clothes.html||0||1
+2020-12-09 14:42:50.261813||treatment||google search||shampoo for dudes||1||0
+2020-12-09 14:42:50.770342||error||visiting||google searchresults||1||0
+2020-12-09 14:42:57.208672||error||visiting||google searchresults||3||1
+2020-12-09 14:43:05.889684||treatment||visit page||https://www.beltoutlet.com/collections/mens-leather-belts||2||0
+2020-12-09 14:43:10.760228||treatment||visit page||https://www.thetrendspotter.net/best-shampoos-for-men/||1||0
+2020-12-09 14:43:29.011842||treatment||visit page||https://gearmoose.com/best-shampoo-for-men/||1||0
+2020-12-09 14:43:31.074468||treatment||google search||gold belts||0||1
+2020-12-09 14:43:31.323011||error||visiting||google searchresults||0||1
+2020-12-09 14:43:34.187257||treatment||visit page||https://www.nordstrom.com/browse/men/accessories/belts/filter/leather-genuine~8000485_8000502||2||0
+2020-12-09 14:43:52.524333||treatment||visit page||https://www.target.com/c/belts-women-s-accessories/gold/-/N-56dbkZgup4zc5xkto||0||1
+2020-12-09 14:43:54.805406||treatment||google search||gold belts||3||1
+2020-12-09 14:43:55.166767||error||visiting||google searchresults||3||1
+2020-12-09 14:43:59.715581||treatment||google search||shampoo for dudes||2||0
+2020-12-09 14:43:59.784598||error||visiting||google searchresults||2||0
+2020-12-09 14:44:15.161367||treatment||visit page||https://www.forbes.com/sites/forbes-personal-shopper/2020/06/22/best-shampoo-for-men-by-hair-type/?sh=f3f29c334b39||1||0
+2020-12-09 14:44:15.340691||treatment||visit page||https://www.google.com/search?source=hp&ei=9TbRX_TiD4KUtAbwi4HoCw&q=gold+belts&oq=gold+belts&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgUIABDJAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6CwgAELEDEIMBEMkDOgUILhCxAzoFCAAQsQM6AgguOggILhDHARCvAUoFCAcSATFKBQgJEgExSgcIChIDNjg5UPYOWO0XYLA4aABwAHgAgAGOGogBylmSAQM5LTSYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwi0sd_m4cHtAhUCCs0KHfBFAL0Q4dUDCAg&uact=5||3||1
+2020-12-09 14:44:17.001999||treatment||visit page||https://www.thetrendspotter.net/best-shampoos-for-men/||2||0
+2020-12-09 14:44:17.083638||treatment||visit page||https://www.macys.com/shop/handbags-accessories/belts/Color_normal/Gold?id=27807||0||1
+2020-12-09 14:44:40.717530||treatment||visit page||https://gearmoose.com/best-shampoo-for-men/||2||0
+2020-12-09 14:44:46.632135||treatment||visit page||https://www.toolsofmen.com/best-shampoo-for-men/||1||0
+2020-12-09 14:44:47.090441||error||visiting||google searchresults||3||1
+2020-12-09 14:44:55.120940||error||visiting||google searchresults||3||1
+2020-12-09 14:44:59.880009||treatment||visit page||https://www.etsy.com/market/gold_belt||0||1
+2020-12-09 14:45:03.821550||error||visiting||google searchresults||3||1
+2020-12-09 14:45:07.795609||treatment||visit page||https://www.google.com/search?source=hp&ei=AzfRX8btOJiGtQbarZS4Cw&q=shampoo+for+dudes&oq=shampoo+for+dudes&gs_lcp=CgZwc3ktYWIQAzIFCAAQzQIyBQgAEM0COgUIABDJAzoCCAA6BAgAEAo6CQgAEMkDEBYQHjoGCAAQFhAeULQIWIwTYJQhaABwAHgAgAH8CogBnSiSAQM3LTSYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwiG-97t4cHtAhUYQ80KHdoWBbcQ4dUDCAg&uact=5||2||0
+2020-12-09 14:45:17.414617||treatment||google search||shampoo for women||3||1
+2020-12-09 14:45:20.120436||error||visiting||google searchresults||3||1
+2020-12-09 14:45:21.153434||error||visiting||google searchresults||2||0
+2020-12-09 14:45:23.629101||treatment||google search||beard shaving kit||1||0
+2020-12-09 14:45:27.087654||error||visiting||google searchresults||1||0
+2020-12-09 14:45:33.270884||treatment||google search||beard shaving kit||2||0
+2020-12-09 14:45:36.080478||error||visiting||google searchresults||2||0
+2020-12-09 14:45:44.199303||treatment||visit page||https://www.goodhousekeeping.com/beauty-products/g32715498/best-shampoos-brands/||3||1
+2020-12-09 14:45:47.881991||treatment||visit page||https://www.google.com/search?source=hp&ei=UTfRX7e6PIy-tAaquo-YCw&q=beard+shaving+kit&oq=beard+shaving+kit&gs_lcp=CgZwc3ktYWIQA1AAWABg8xZoAHAAeACAAQCIAQCSAQCYAQCqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwj3pvuS4sHtAhUMH80KHSrdA7MQ4dUDCAg&uact=5||1||0
+2020-12-09 14:45:55.550342||treatment||visit page||https://www.walmart.com/browse/clothing/womens-belts/gold/5438_1045799_6614250_2773875_7265378/Y29sb3I6R29sZAieie||0||1
+2020-12-09 14:45:58.943122||error||visiting||google searchresults||1||0
+2020-12-09 14:46:00.341491||treatment||visit page||https://theartofshaving.com/grooming-and-skincare-beard-and-moustache||2||0
+2020-12-09 14:46:06.978917||error||visiting||google searchresults||1||0
+2020-12-09 14:46:13.812899||treatment||visit page||https://nymag.com/strategist/article/best-shampoos-dandruff-volumizing-thinning-dry.html||3||1
+2020-12-09 14:46:15.071291||error||visiting||google searchresults||1||0
+2020-12-09 14:46:32.190102||treatment||google search||manly cocktails||1||0
+2020-12-09 14:46:32.497171||error||visiting||google searchresults||1||0
+2020-12-09 14:46:35.596645||error||visiting||google searchresults||0||1
+2020-12-09 14:46:39.506220||treatment||visit page||https://www.womenshealthmag.com/beauty/a19947497/best-shampoos-for-thinning-hair/||3||1
+2020-12-09 14:47:03.829287||treatment||google search||shampoo for women||0||1
+2020-12-09 14:47:03.881241||error||visiting||google searchresults||0||1
+2020-12-09 14:47:08.026976||treatment||visit page||https://www.marieclaire.com/beauty/g25096473/best-shampoo-and-conditioner-reviews/||3||1
+2020-12-09 14:47:08.326695||treatment||visit page||https://www.target.com/s/mens+shaving+kit?Nao=0||2||0
+2020-12-09 14:47:14.864108||treatment||visit page||https://cocktails.lovetoknow.com/about-cocktails/manly-bar-drinks||1||0
+2020-12-09 14:47:22.098626||treatment||visit page||https://www.google.com/search?source=hp&ei=vzfRX7zCJtq5tQaN67Zg&q=shampoo+for+women&btnK=Google+Search||0||1
+2020-12-09 14:47:26.294758||error||visiting||google searchresults||2||0
+2020-12-09 14:47:35.666090||treatment||google search||ladies's shaving kit||3||1
+2020-12-09 14:47:35.868722||error||visiting||google searchresults||3||1
+2020-12-09 14:47:40.703457||error||visiting||google searchresults||0||1
+2020-12-09 14:47:41.053737||error||visiting||google searchresults||2||0
+2020-12-09 14:47:52.024670||error||visiting||google searchresults||0||1
+2020-12-09 14:47:54.634699||treatment||visit page||https://www.mankind.co.uk/blog/lifestyle-focus/top-5-manly-cocktails-you-must-try/||1||0
+2020-12-09 14:48:00.044745||error||visiting||google searchresults||0||1
+2020-12-09 14:48:01.915802||treatment||visit page||https://hellosubscription.com/best-womens-razor-shaving-subscriptions/||3||1
+2020-12-09 14:48:05.786539||error||visiting||google searchresults||1||0
+2020-12-09 14:48:08.464991||treatment||google search||manly cocktails||2||0
+2020-12-09 14:48:08.704884||error||visiting||google searchresults||2||0
+2020-12-09 14:48:14.233671||error||visiting||google searchresults||1||0
+2020-12-09 14:48:15.713789||treatment||google search||ladies's shaving kit||0||1
+2020-12-09 14:48:15.960117||error||visiting||google searchresults||0||1
+2020-12-09 14:48:22.239162||event||progress-marker||training-end||1||0
+2020-12-09 14:48:35.495789||treatment||visit page||https://www.maggardrazors.com/product/beginners-double-edge-razor-kit-for-women-2-2/||3||1
+2020-12-09 14:48:40.198937||treatment||visit page||https://hellosubscription.com/best-womens-razor-shaving-subscriptions/||0||1
+2020-12-09 14:49:00.388167||treatment||visit page||https://cocktails.lovetoknow.com/about-cocktails/manly-bar-drinks||2||0
+2020-12-09 14:49:02.944892||treatment||visit page||https://www.schick.com/us/en/subscription-women||3||1
+2020-12-09 14:49:09.393707||treatment||visit page||https://www.maggardrazors.com/product/beginners-double-edge-razor-kit-for-women-2-2/||0||1
+2020-12-09 14:49:23.809358||treatment||visit page||https://www.etsy.com/market/shaving_kit_women||3||1
+2020-12-09 14:49:31.465978||treatment||visit page||https://www.mankind.co.uk/blog/lifestyle-focus/top-5-manly-cocktails-you-must-try/||2||0
+2020-12-09 14:49:36.443328||treatment||visit page||https://www.schick.com/us/en/subscription-women||0||1
+2020-12-09 14:49:43.853055||error||visiting||google searchresults||2||0
+2020-12-09 14:49:49.548346||treatment||google search||girly cocktails||3||1
+2020-12-09 14:49:49.633365||error||visiting||google searchresults||3||1
+2020-12-09 14:49:52.094037||error||visiting||google searchresults||2||0
+2020-12-09 14:50:00.102738||event||progress-marker||training-end||2||0
+2020-12-09 14:50:01.160283||treatment||visit page||https://www.etsy.com/market/shaving_kit_women||0||1
+2020-12-09 14:50:06.891249||treatment||visit page||https://www.pinterest.com/pin/249949848046812696/||3||1
+2020-12-09 14:50:15.302171||treatment||google search||girly cocktails||0||1
+2020-12-09 14:50:15.355507||error||visiting||google searchresults||0||1
+2020-12-09 14:50:40.741525||treatment||visit page||https://www.pinterest.com/craftymorning0/girly-cocktails/||3||1
+2020-12-09 14:50:47.571389||treatment||visit page||https://www.pinterest.com/pin/249949848046812696/||0||1
+2020-12-09 14:51:00.362299||treatment||visit page||https://www.thecoolist.com/best-girly-drinks/||3||1
+2020-12-09 14:51:18.231527||treatment||visit page||https://foodfornet.com/girly-cocktails/||3||1
+2020-12-09 14:51:27.908362||treatment||visit page||https://www.pinterest.com/craftymorning0/girly-cocktails/||0||1
+2020-12-09 14:51:29.175457||event||progress-marker||training-end||3||1
+2020-12-09 14:51:43.268078||treatment||visit page||https://www.thecoolist.com/best-girly-drinks/||0||1
+2020-12-09 14:51:59.842609||treatment||visit page||https://foodfornet.com/girly-cocktails/||0||1
+2020-12-09 14:52:09.490840||event||progress-marker||training-end||0||1
+2020-12-09 14:52:10.236002||event||progress-marker||measurement-start||2||0
+2020-12-09 14:52:12.466076||event||progress-marker||measurement-start||1||0
+2020-12-09 14:52:14.213970||event||progress-marker||measurement-start||3||1
+2020-12-09 14:52:14.498777||event||progress-marker||measurement-start||0||1
+2020-12-09 14:52:40.078699||measurement||ad||2020-12-09 14:52:29.491655@|youtube@|TOM AND JERRY Official Trailer (2021)@|Movie Trailers Source@|5.5M views@|3 weeks ago||2||0
+2020-12-09 14:52:44.097103||measurement||ad||2020-12-09 14:52:29.491655@|youtube@|Relaxing Christmas Jazz Music 10 Hours@|Relax Cafe Music@|2.4M views@|2 months ago||2||0
+2020-12-09 14:52:45.639976||measurement||ad||2020-12-09 14:52:29.491655@|youtube@|How Jawbreakers Are Made@|Insider@|15M views@|2 years ago||2||0
+2020-12-09 14:52:47.177612||measurement||ad||2020-12-09 14:52:29.491655@|youtube@|The Amazing Spider-Man Cheating On MJ With Black Cat Scene 4K ULTRA HD - Spider-Man Remastered PS5@|GameClips@|9.8M views@|1 week ago||2||0
+2020-12-09 14:52:47.968110||measurement||ad||2020-12-09 14:52:29.491655@|youtube@|Relaxing Christmas Soft Piano Music | Sleep, Calm, Relax, Cafe, Spa Music@|LADOREMI 라도레미@|2M views@|11 months ago||2||0
+2020-12-09 14:52:48.597046||measurement||ad||2020-12-09 14:52:29.491655@|youtube@|TOP 10 Most View America's Got Talent Updated@|Top 10 Talent@|7.4M views@|3 years ago||2||0
+2020-12-09 14:52:49.429257||measurement||ad||2020-12-09 14:52:29.491655@|youtube@|We Made Among Us Sounds Into a Song@|Sheet Music Boss@|10M views@|1 month ago||2||0
+2020-12-09 14:52:50.327554||measurement||ad||2020-12-09 14:52:29.491655@|youtube@|Superman Surrenders Scene | Man of Steel (2013) Movie Clip 4K@|Filmic Box@|6.8M views@|1 year ago||2||0
+2020-12-09 14:52:51.738347||measurement||ad||2020-12-09 14:52:29.491655@|youtube@|Chloe x Halle: Tiny Desk (Home) Concert@|NPR Music@|388K views@|1 day ago||2||0
+2020-12-09 14:52:52.192910||measurement||ad||2020-12-09 14:52:38.860457@|youtube@|Relaxing Christmas Jazz Music 10 Hours@|Relax Cafe Music@|2.4M views@|2 months ago||1||0
+2020-12-09 14:52:52.744081||measurement||ad||2020-12-09 14:52:29.491655@|youtube@|Racing Driver takes out my car (He's FAST)@|MCM TV2@|127K views@|15 hours ago||2||0
+2020-12-09 14:52:53.081686||measurement||ad||2020-12-09 14:52:42.800840@|youtube@|Relaxing Christmas Jazz Music 10 Hours@|Relax Cafe Music@|2.4M views@|2 months ago||0||1
+2020-12-09 14:52:53.736621||measurement||ad||2020-12-09 14:52:38.860457@|youtube@|Tony Stark "You Want My Property, You Can't Have It" Scene | Iron Man 2 (2010) Movie Clip 4K@|Filmic Box@|3.4M views@|1 year ago||1||0
+2020-12-09 14:52:53.932292||measurement||ad||2020-12-09 14:52:29.491655@|youtube@|twenty one pilots - Christmas Saves The Year (Official Audio)@|twenty one pilots@|842K views@|18 hours ago||2||0
+2020-12-09 14:52:53.932444||measurement||loadtime||0:00:38.692433||2||0
+2020-12-09 14:52:54.270508||measurement||ad||2020-12-09 14:52:42.452683@|youtube@|Relaxing Christmas Jazz Music 10 Hours@|Relax Cafe Music@|2.4M views@|2 months ago||3||1
+2020-12-09 14:52:56.047275||measurement||ad||2020-12-09 14:52:42.800840@|youtube@|Tony Stark "You Want My Property, You Can't Have It" Scene | Iron Man 2 (2010) Movie Clip 4K@|Filmic Box@|3.4M views@|1 year ago||0||1
+2020-12-09 14:52:56.430192||measurement||ad||2020-12-09 14:52:38.860457@|youtube@|We Made Among Us Sounds Into a Song@|Sheet Music Boss@|10M views@|1 month ago||1||0
+2020-12-09 14:52:57.652832||measurement||ad||2020-12-09 14:52:42.800840@|youtube@|*teleports behind you*@|Sh0gun@|35M views@|3 years ago||0||1
+2020-12-09 14:52:57.800285||measurement||ad||2020-12-09 14:52:42.452683@|youtube@|Minecraft, But With Only 1 Heart!@|MrBeast Gaming@|6M views@|2 days ago||3||1
+2020-12-09 14:52:58.321011||measurement||ad||2020-12-09 14:52:38.860457@|youtube@|A Complete Fail at Getting Marijuana - Key & Peele@|Key & Peele@|2.9M views@|3 weeks ago||1||0
+2020-12-09 14:52:59.565582||measurement||ad||2020-12-09 14:52:42.800840@|youtube@|How I Met Your Mother | Bloopers vs Actual scenes. (Season 2)@|I won@|459K views@|3 weeks ago||0||1
+2020-12-09 14:52:59.660083||measurement||ad||2020-12-09 14:52:42.452683@|youtube@|TOM AND JERRY Official Trailer (2021)@|Movie Trailers Source@|5.5M views@|3 weeks ago||3||1
+2020-12-09 14:52:59.729607||measurement||ad||2020-12-09 14:52:38.860457@|youtube@|Ambient Study Music To Concentrate - 4 Hours of Music for Studying, Concentration and Memory@|Quiet Quest - Study Music@|2M views@|10 months ago||1||0
+2020-12-09 14:53:01.060257||measurement||ad||2020-12-09 14:52:38.860457@|youtube@|How Jawbreakers Are Made@|Insider@|15M views@|2 years ago||1||0
+2020-12-09 14:53:01.333495||measurement||ad||2020-12-09 14:52:42.452683@|youtube@|Kid Wins Talent Show Dancing to Michael Jackson's Billie Jean@|OpenMic Crew@|22M views@|6 years ago||3||1
+2020-12-09 14:53:01.399341||measurement||ad||2020-12-09 14:52:42.800840@|youtube@|BTS Sings 'Santa Claus Is Comin' To Town' - The Disney Holiday Singalong@|ABC@|7M views@|1 week ago||0||1
+2020-12-09 14:53:01.787823||measurement||ad||2020-12-09 14:52:38.860457@|youtube@|Kid Wins Talent Show Dancing to Michael Jackson's Billie Jean@|OpenMic Crew@|22M views@|6 years ago||1||0
+2020-12-09 14:53:02.615709||measurement||ad||2020-12-09 14:52:42.800840@|youtube@|baby no no@|JoshDub@|27M views@|6 months ago||0||1
+2020-12-09 14:53:02.669964||measurement||ad||2020-12-09 14:52:42.452683@|youtube@|lofi hip hop radio - beats to relax/study to@|ChilledCow@|52K watching@|LIVE NOW||3||1
+2020-12-09 14:53:02.766871||measurement||ad||2020-12-09 14:52:38.860457@|youtube@|NFL "How Are You in the NFL?" Moments@|Highlight Heaven@|927K views@|1 month ago||1||0
+2020-12-09 14:53:03.515094||measurement||ad||2020-12-09 14:52:42.452683@|youtube@|*teleports behind you*@|Sh0gun@|35M views@|3 years ago||3||1
+2020-12-09 14:53:03.700007||measurement||ad||2020-12-09 14:52:38.860457@|youtube@|Chloe x Halle: Tiny Desk (Home) Concert@|NPR Music@|388K views@|1 day ago||1||0
+2020-12-09 14:53:03.853434||measurement||ad||2020-12-09 14:52:42.800840@|youtube@|AMONG US with CUSTOM SKIN (epic)@|LazarBeam@|11M views@|1 month ago||0||1
+2020-12-09 14:53:04.460361||measurement||ad||2020-12-09 14:52:42.452683@|youtube@|[HOONIGAN] Gymkhana 2020: Travis Pastrana Takeover; Ultimate Hometown Shred in an 862hp Subaru STI@|Hoonigan@|3.3M views@|1 day ago||3||1
+2020-12-09 14:53:04.611340||measurement||ad||2020-12-09 14:52:42.800840@|youtube@|Henry Thomas audition för E.T. "Ok kid, you got the job".@|UniversalPicsSweden@|17M views@|8 years ago||0||1
+2020-12-09 14:53:04.716318||measurement||ad||2020-12-09 14:52:38.860457@|youtube@|[HOONIGAN] Gymkhana 2020: Travis Pastrana Takeover; Ultimate Hometown Shred in an 862hp Subaru STI@|Hoonigan@|3.3M views@|1 day ago||1||0
+2020-12-09 14:53:05.429530||measurement||ad||2020-12-09 14:52:38.860457@|youtube@|Racing Driver takes out my car (He's FAST)@|MCM TV2@|127K views@|15 hours ago||1||0
+2020-12-09 14:53:05.429703||measurement||loadtime||0:00:47.959295||1||0
+2020-12-09 14:53:05.487780||measurement||ad||2020-12-09 14:52:42.452683@|youtube@|Chloe x Halle: Tiny Desk (Home) Concert@|NPR Music@|388K views@|1 day ago||3||1
+2020-12-09 14:53:05.777230||measurement||ad||2020-12-09 14:52:42.800840@|youtube@|Chloe x Halle: Tiny Desk (Home) Concert@|NPR Music@|388K views@|1 day ago||0||1
+2020-12-09 14:53:06.461303||measurement||ad||2020-12-09 14:52:42.452683@|youtube@|Racing Driver takes out my car (He's FAST)@|MCM TV2@|127K views@|15 hours ago||3||1
+2020-12-09 14:53:07.158151||measurement||ad||2020-12-09 14:52:42.800840@|youtube@|Cowboys vs. Ravens Week 13 Highlights | NFL 2020@|NFL@|1.1M views@|16 hours ago||0||1
+2020-12-09 14:53:08.998428||measurement||ad||2020-12-09 14:52:42.800840@|youtube@|[HOONIGAN] Gymkhana 2020: Travis Pastrana Takeover; Ultimate Hometown Shred in an 862hp Subaru STI@|Hoonigan@|3.3M views@|1 day ago||0||1
+2020-12-09 14:53:08.998600||measurement||loadtime||0:00:49.495891||0||1
+2020-12-09 14:53:10.213822||measurement||loadtime||0:00:50.994920||3||1
+2020-12-09 14:53:30.658052||measurement||ad||2020-12-09 14:53:21.930813@|youtube@|patrick baby@|Maxi Taxi@|19M views@|1 year ago||2||0
+2020-12-09 14:53:32.256810||measurement||ad||2020-12-09 14:53:21.930813@|youtube@|Relaxing Christmas Jazz Music 10 Hours@|Relax Cafe Music@|2.4M views@|2 months ago||2||0
+2020-12-09 14:53:35.733595||measurement||ad||2020-12-09 14:53:21.930813@|youtube@|Tony Stark "You Want My Property, You Can't Have It" Scene | Iron Man 2 (2010) Movie Clip 4K@|Filmic Box@|3.4M views@|1 year ago||2||0
+2020-12-09 14:53:37.590335||measurement||ad||2020-12-09 14:53:21.930813@|youtube@|Minecraft Speedrunner VS 4 Hunters@|Dream@|42M views@|3 months ago||2||0
+2020-12-09 14:53:38.846799||measurement||ad||2020-12-09 14:53:21.930813@|youtube@|How I Met Your Mother | Bloopers vs Actual scenes. (Season 2)@|I won@|459K views@|3 weeks ago||2||0
+2020-12-09 14:53:40.237100||measurement||ad||2020-12-09 14:53:21.930813@|youtube@|Penalty Saves that wont repeat@|Score 90@|6.4M views@|1 month ago||2||0
+2020-12-09 14:53:41.431686||measurement||ad||2020-12-09 14:53:21.930813@|youtube@|Scared Minions Sleeps With Gru Scene | MINIONS 2 THE RISE OF GRU (NEW 2021) Movie CLIP HD@|FilmSpot Trailer@|2M views@|1 week ago||2||0
+2020-12-09 14:53:42.437261||measurement||ad||2020-12-09 14:53:21.930813@|youtube@|NFL "How Are You in the NFL?" Moments@|Highlight Heaven@|927K views@|1 month ago||2||0
+2020-12-09 14:53:43.839268||measurement||ad||2020-12-09 14:53:21.930813@|youtube@|Cyberpunk 2077 Review@|IGN@|3.9M views@|2 days ago||2||0
+2020-12-09 14:53:45.154453||measurement||ad||2020-12-09 14:53:21.930813@|youtube@|Racing Driver takes out my car (He's FAST)@|MCM TV2@|127K views@|15 hours ago||2||0
+2020-12-09 14:53:46.310747||measurement||ad||2020-12-09 14:53:36.679081@|youtube@|Relaxing Christmas Jazz Music 10 Hours@|Relax Cafe Music@|2.4M views@|2 months ago||0||1
+2020-12-09 14:53:46.538140||measurement||ad||2020-12-09 14:53:33.512392@|youtube@|Relaxing Christmas Jazz Music 10 Hours@|Relax Cafe Music@|2.4M views@|2 months ago||1||0
+2020-12-09 14:53:46.862754||measurement||ad||2020-12-09 14:53:21.930813@|youtube@|BTS Play 'This or That' (Round 2)@|SiriusXM@|441K views@|1 day ago||2||0
+2020-12-09 14:53:46.862923||measurement||loadtime||0:00:47.926082||2||0
+2020-12-09 14:53:46.863000||event||progress-marker||measurement-end||2||0
+2020-12-09 14:53:48.006015||measurement||ad||2020-12-09 14:53:37.832342@|youtube@|Relaxing Christmas Jazz Music 10 Hours@|Relax Cafe Music@|2.4M views@|2 months ago||3||1
+2020-12-09 14:53:50.094162||measurement||ad||2020-12-09 14:53:36.679081@|youtube@|Making a squirrel laugh@|Cat H@|3.4M views@|4 years ago||0||1
+2020-12-09 14:53:50.308208||measurement||ad||2020-12-09 14:53:33.512392@|youtube@|Among Us: The MedBay Scan@|Flash in Rahul@|4.1M views@|1 month ago||1||0
+2020-12-09 14:53:51.067110||measurement||ad||2020-12-09 14:53:37.832342@|youtube@|Among Us, But It's 3D!@|MrBeast Gaming@|13M views@|4 weeks ago||3||1
+2020-12-09 14:53:51.231628||measurement||ad||2020-12-09 14:53:36.679081@|youtube@|If Hogwarts Were an Inner-City School - Key & Peele@|Key & Peele@|16M views@|11 months ago||0||1
+2020-12-09 14:53:51.396511||measurement||ad||2020-12-09 14:53:33.512392@|youtube@|بث مباشر || قناة القرآن الكريم Makkah Live@|قناة القران الكريم@|7.3K watching@|LIVE NOW||1||0
+2020-12-09 14:53:52.427916||measurement||ad||2020-12-09 14:53:37.832342@|youtube@|A Complete Fail at Getting Marijuana - Key & Peele@|Key & Peele@|2.9M views@|3 weeks ago||3||1
+2020-12-09 14:53:52.631813||measurement||ad||2020-12-09 14:53:33.512392@|youtube@|Neo "I'll Handle Them" - Chateau Fight Scene | The Matrix Reloaded (2003) Movie Clip 4K@|Filmic Box@|779K views@|1 year ago||1||0
+2020-12-09 14:53:52.758974||measurement||ad||2020-12-09 14:53:36.679081@|youtube@|Optimus Prime vs Grimlock - "Let Me Lead You" | Transformers Age of Extinction (2014) Movie Clip 4K@|Filmic Box@|3.9M views@|7 months ago||0||1
+2020-12-09 14:53:53.359783||measurement||ad||2020-12-09 14:53:37.832342@|youtube@|patrick baby@|Maxi Taxi@|19M views@|1 year ago||3||1
+2020-12-09 14:53:53.617799||measurement||ad||2020-12-09 14:53:36.679081@|youtube@|NFL "How Are You in the NFL?" Moments@|Highlight Heaven@|927K views@|1 month ago||0||1
+2020-12-09 14:53:53.657300||measurement||ad||2020-12-09 14:53:33.512392@|youtube@|World's First Lightsaber! - Guinness World Records@|Guinness World Records@|1.6M views@|5 days ago||1||0
+2020-12-09 14:53:54.163041||measurement||ad||2020-12-09 14:53:37.832342@|youtube@|Mexican Moms Rank Mexican Snacks@|MaMah@|7.7M views@|4 months ago||3||1
+2020-12-09 14:53:54.365780||measurement||ad||2020-12-09 14:53:36.679081@|youtube@|lofi hip hop radio - beats to relax/study to@|ChilledCow@|52K watching@|LIVE NOW||0||1
+2020-12-09 14:53:54.522994||measurement||ad||2020-12-09 14:53:33.512392@|youtube@|Legendary Uefa Champions League Goals@|SportsHD@|10M views@|6 months ago||1||0
+2020-12-09 14:53:54.904229||measurement||ad||2020-12-09 14:53:37.832342@|youtube@|lofi hip hop radio - beats to relax/study to@|ChilledCow@|52K watching@|LIVE NOW||3||1
+2020-12-09 14:53:54.983022||measurement||ad||2020-12-09 14:53:33.512392@|youtube@|Cutest baby animals Videos Compilation Cute moment of the Animals - Cutest Animals #8@|Cutest Animals@|5.2M views@|1 month ago||1||0
+2020-12-09 14:53:54.992356||measurement||ad||2020-12-09 14:53:36.679081@|youtube@|China's growing influence | Gordon Chang@|Newsmax TV@|24K views@|2 hours ago||0||1
+2020-12-09 14:53:55.555333||measurement||ad||2020-12-09 14:53:36.679081@|youtube@|Lindsey Stirling - Carol of the Bells (Official Video)@|Lindsey Stirling@|46M views@|3 years ago||0||1
+2020-12-09 14:53:55.566865||measurement||ad||2020-12-09 14:53:33.512392@|youtube@|Focus Music for Work and Studying, Background Music for Concentration, Study Music@|Greenred Productions - Relaxing Music@|3.7M views@|6 months ago||1||0
+2020-12-09 14:53:55.593065||measurement||ad||2020-12-09 14:53:37.832342@|youtube@|Chloe x Halle: Tiny Desk (Home) Concert@|NPR Music@|388K views@|1 day ago||3||1
+2020-12-09 14:53:56.233774||measurement||ad||2020-12-09 14:53:37.832342@|youtube@|Racing Driver takes out my car (He's FAST)@|MCM TV2@|127K views@|15 hours ago||3||1
+2020-12-09 14:53:56.330352||measurement||ad||2020-12-09 14:53:36.679081@|youtube@|Chloe x Halle: Tiny Desk (Home) Concert@|NPR Music@|388K views@|1 day ago||0||1
+2020-12-09 14:53:56.402748||measurement||ad||2020-12-09 14:53:33.512392@|youtube@|twenty one pilots - Christmas Saves The Year (Official Audio)@|twenty one pilots@|847K views@|18 hours ago||1||0
+2020-12-09 14:53:57.104855||measurement||ad||2020-12-09 14:53:37.832342@|youtube@|[HOONIGAN] Gymkhana 2020: Travis Pastrana Takeover; Ultimate Hometown Shred in an 862hp Subaru STI@|Hoonigan@|3.3M views@|1 day ago||3||1
+2020-12-09 14:53:57.203470||measurement||ad||2020-12-09 14:53:33.512392@|youtube@|Chloe x Halle: Tiny Desk (Home) Concert@|NPR Music@|388K views@|1 day ago||1||0
+2020-12-09 14:53:57.213956||measurement||ad||2020-12-09 14:53:36.679081@|youtube@|BTS Play 'This or That' (Round 2)@|SiriusXM@|441K views@|1 day ago||0||1
+2020-12-09 14:53:57.941956||measurement||ad||2020-12-09 14:53:33.512392@|youtube@|King Von - Wayne's Story (Official Video)@|King Von@|3.5M views@|1 day ago||1||0
+2020-12-09 14:53:57.942136||measurement||loadtime||0:00:47.507493||1||0
+2020-12-09 14:53:57.942211||event||progress-marker||measurement-end||1||0
+2020-12-09 14:53:58.035144||measurement||ad||2020-12-09 14:53:36.679081@|youtube@|Cowboys vs. Ravens Week 13 Highlights | NFL 2020@|NFL@|1.1M views@|16 hours ago||0||1
+2020-12-09 14:53:58.035325||measurement||loadtime||0:00:44.031514||0||1
+2020-12-09 14:53:58.035382||event||progress-marker||measurement-end||0||1
+2020-12-09 14:54:00.204339||measurement||loadtime||0:00:44.985845||3||1
+2020-12-09 14:54:00.204421||event||progress-marker||measurement-end||3||1
+2020-12-09 14:54:03.138643||meta||block_id end||0
+2020-12-09 14:54:03.140822||meta||block_id start||1
+2020-12-09 14:54:03.140896||meta||assignment||2@|1@|0@|3
+2020-12-09 14:54:35.054159||event||progress-marker||training-start||2||0
+2020-12-09 14:54:35.088696||event||progress-marker||training-start||1||0
+2020-12-09 14:54:35.197495||event||progress-marker||training-start||3||1
+2020-12-09 14:54:35.498832||event||progress-marker||training-start||0||1
+2020-12-09 14:54:47.200184||treatment||google search||clothes||3||1
+2020-12-09 14:54:47.319219||error||visiting||google searchresults||3||1
+2020-12-09 14:54:47.454512||treatment||google search||men's clothes||1||0
+2020-12-09 14:54:47.572593||treatment||google search||men's clothes||2||0
+2020-12-09 14:54:47.635424||error||visiting||google searchresults||1||0
+2020-12-09 14:54:47.733515||error||visiting||google searchresults||2||0
+2020-12-09 14:54:47.786396||treatment||google search||clothes||0||1
+2020-12-09 14:54:48.038892||error||visiting||google searchresults||0||1
+2020-12-09 14:55:04.638423||treatment||visit page||https://www.missguidedus.com/clothing||0||1
+2020-12-09 14:55:06.375824||treatment||visit page||https://www.missguidedus.com/clothing||3||1
+2020-12-09 14:55:06.980643||treatment||visit page||https://www.macys.com/shop/mens-clothing?id=1||1||0
+2020-12-09 14:55:12.671230||treatment||visit page||https://www.macys.com/shop/mens-clothing?id=1||2||0
+2020-12-09 14:55:29.010825||error||visiting||google searchresults||1||0
+2020-12-09 14:55:29.729079||error||visiting||google searchresults||2||0
+2020-12-09 14:55:37.170956||error||visiting||google searchresults||1||0
+2020-12-09 14:55:37.341047||treatment||visit page||https://www.theguardian.com/fashion/2020/jul/14/fast-fashion-20-ways-stop-buying-new-clothes-fair-wage-wardrobes||3||1
+2020-12-09 14:55:37.823922||error||visiting||google searchresults||2||0
+2020-12-09 14:55:38.316448||treatment||visit page||https://www.theguardian.com/fashion/2020/jul/14/fast-fashion-20-ways-stop-buying-new-clothes-fair-wage-wardrobes||0||1
+2020-12-09 14:55:45.239127||error||visiting||google searchresults||1||0
+2020-12-09 14:55:45.898092||error||visiting||google searchresults||2||0
+2020-12-09 14:55:57.408940||treatment||google search||leather belts||1||0
+2020-12-09 14:55:57.945548||treatment||google search||leather belts||2||0
+2020-12-09 14:55:58.895924||error||visiting||google searchresults||1||0
+2020-12-09 14:55:59.149896||error||visiting||google searchresults||2||0
+2020-12-09 14:56:19.227234||treatment||visit page||https://www.google.com/search?source=hp&ei=2TnRX6vPG8nctQaezafwCA&q=leather+belts&btnK=Google+Search||1||0
+2020-12-09 14:56:19.798865||treatment||visit page||https://www.belts.com/mens-belts.html||2||0
+2020-12-09 14:56:29.676522||error||visiting||google searchresults||0||1
+2020-12-09 14:56:29.756564||error||visiting||google searchresults||3||1
+2020-12-09 14:56:29.920659||error||visiting||google searchresults||1||0
+2020-12-09 14:56:37.942702||error||visiting||google searchresults||1||0
+2020-12-09 14:56:38.127045||error||visiting||google searchresults||0||1
+2020-12-09 14:56:38.134352||error||visiting||google searchresults||3||1
+2020-12-09 14:56:40.061861||treatment||visit page||https://www.macys.com/shop/mens-clothing/mens-belts-suspenders/Belt_material/Leather?id=47673||2||0
+2020-12-09 14:56:45.969463||error||visiting||google searchresults||1||0
+2020-12-09 14:56:59.303203||treatment||google search||gold belts||0||1
+2020-12-09 14:56:59.556404||error||visiting||google searchresults||0||1
+2020-12-09 14:57:00.751413||treatment||google search||shampoo for dudes||1||0
+2020-12-09 14:57:00.998646||error||visiting||google searchresults||1||0
+2020-12-09 14:57:01.289785||treatment||google search||gold belts||3||1
+2020-12-09 14:57:01.661509||error||visiting||google searchresults||3||1
+2020-12-09 14:57:04.587518||treatment||visit page||https://www.beltoutlet.com/collections/mens-leather-belts||2||0
+2020-12-09 14:57:14.703836||treatment||visit page||https://www.google.com/search?source=hp&ei=DzrRX_KKPNrbtAaoyo3YDg&q=gold+belts&oq=gold+belts&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgUIABDJAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6CwgAELEDEIMBEMkDOgUILhCxAzoFCAAQsQM6AgguOggILhDHARCvAVCwBlj5C2DcJGgAcAB4AIAB5hOIAfY_kgEHNy0xLjAuM5gBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiyztnh5MHtAhXaLc0KHShlA-sQ4dUDCAg&uact=5||0||1
+2020-12-09 14:57:21.153167||treatment||visit page||https://www.target.com/s/womens+gold+belts||3||1
+2020-12-09 14:57:23.209205||treatment||visit page||https://www.thetrendspotter.net/best-shampoos-for-men/||1||0
+2020-12-09 14:57:30.682978||error||visiting||google searchresults||0||1
+2020-12-09 14:57:32.613124||treatment||visit page||https://www.nordstrom.com/browse/men/accessories/belts/filter/leather-genuine~8000485_8000502||2||0
+2020-12-09 14:57:38.706403||error||visiting||google searchresults||0||1
+2020-12-09 14:57:46.741163||error||visiting||google searchresults||0||1
+2020-12-09 14:57:48.229245||treatment||visit page||https://www.macys.com/shop/handbags-accessories/belts/Color_normal/Gold?id=27807||3||1
+2020-12-09 14:57:52.217725||treatment||visit page||https://gearmoose.com/best-shampoo-for-men/||1||0
+2020-12-09 14:57:52.515357||treatment||google search||shampoo for dudes||2||0
+2020-12-09 14:57:52.716201||error||visiting||google searchresults||2||0
+2020-12-09 14:58:02.153453||treatment||google search||shampoo for women||0||1
+2020-12-09 14:58:02.278601||error||visiting||google searchresults||0||1
+2020-12-09 14:58:11.465706||treatment||visit page||https://www.thetrendspotter.net/best-shampoos-for-men/||2||0
+2020-12-09 14:58:21.002883||treatment||visit page||https://www.google.com/search?source=hp&ei=UjrRX_ySPNm3tQaiyaKoAg&q=shampoo+for+women&oq=shampoo+for+women&gs_lcp=CgZwc3ktYWIQA1AAWABgog9oAHAAeACAAQCIAQCSAQCYAQCqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwj8g9OB5cHtAhXZW80KHaKkCCUQ4dUDCAg&uact=5||0||1
+2020-12-09 14:58:31.700477||error||visiting||google searchresults||0||1
+2020-12-09 14:58:39.716214||error||visiting||google searchresults||0||1
+2020-12-09 14:58:40.303312||treatment||visit page||https://gearmoose.com/best-shampoo-for-men/||2||0
+2020-12-09 14:58:43.226520||treatment||visit page||https://www.forbes.com/sites/forbes-personal-shopper/2020/06/22/best-shampoo-for-men-by-hair-type/?sh=111c5a1b34b3||1||0
+2020-12-09 14:58:43.970435||treatment||visit page||https://www.etsy.com/market/gold_belt||3||1
+2020-12-09 14:58:47.740937||error||visiting||google searchresults||0||1
+2020-12-09 14:59:07.093434||treatment||google search||ladies's shaving kit||0||1
+2020-12-09 14:59:07.266973||error||visiting||google searchresults||0||1
+2020-12-09 14:59:08.010202||treatment||visit page||https://www.toolsofmen.com/best-shampoo-for-men/||1||0
+2020-12-09 14:59:26.004510||treatment||visit page||https://hellosubscription.com/best-womens-razor-shaving-subscriptions/||0||1
+2020-12-09 14:59:27.833004||treatment||google search||beard shaving kit||1||0
+2020-12-09 14:59:30.626085||error||visiting||google searchresults||1||0
+2020-12-09 14:59:31.854335||treatment||visit page||https://www.forbes.com/sites/forbes-personal-shopper/2020/06/22/best-shampoo-for-men-by-hair-type/?sh=69fd1da534b3||2||0
+2020-12-09 14:59:36.833734||error||visiting||google searchresults||3||1
+2020-12-09 14:59:53.801583||treatment||visit page||https://www.maggardrazors.com/product/beginners-double-edge-razor-kit-for-women-2-2/||0||1
+2020-12-09 14:59:54.889786||treatment||visit page||https://theartofshaving.com/grooming-and-skincare-beard-and-moustache||1||0
+2020-12-09 15:00:01.379810||treatment||visit page||https://www.toolsofmen.com/best-shampoo-for-men/||2||0
+2020-12-09 15:00:22.859292||treatment||visit page||https://www.target.com/s/mens+shaving+kit||1||0
+2020-12-09 15:00:23.943157||treatment||visit page||https://www.schick.com/us/en/subscription-women||0||1
+2020-12-09 15:00:24.110186||treatment||google search||shampoo for women||3||1
+2020-12-09 15:00:24.291409||error||visiting||google searchresults||3||1
+2020-12-09 15:00:32.483428||treatment||google search||beard shaving kit||2||0
+2020-12-09 15:00:32.592802||error||visiting||google searchresults||2||0
+2020-12-09 15:00:43.551502||treatment||visit page||https://www.google.com/search?source=hp&ei=1jrRX--PD4nbtAaR5LSgDA&q=shampoo+for+women&oq=shampoo+for+women&gs_lcp=CgZwc3ktYWIQA1AAWABg9xJoAHAAeACAAQCIAQCSAQCYAQCqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwjv0p7A5cHtAhWJLc0KHREyDcQQ4dUDCAg&uact=5||3||1
+2020-12-09 15:00:52.265665||treatment||visit page||https://www.groominglounge.com/collections/beard-tools-kits||1||0
+2020-12-09 15:00:54.441021||treatment||visit page||https://www.etsy.com/market/shaving_kit_women||0||1
+2020-12-09 15:00:58.461636||error||visiting||google searchresults||3||1
+2020-12-09 15:01:02.193490||treatment||visit page||https://www.google.com/search?source=hp&ei=4jrRX-DuOq-C9PwPhfWbsAk&q=beard+shaving+kit&oq=beard+shaving+kit&gs_lcp=CgZwc3ktYWIQA1AAWABglRFoAHAAeACAAQCIAQCSAQCYAQCqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwjg56bG5cHtAhUvAZ0JHYX6BpYQ4dUDCAg&uact=5||2||0
+2020-12-09 15:01:18.386130||error||visiting||google searchresults||2||0
+2020-12-09 15:01:23.084820||error||visiting||google searchresults||3||1
+2020-12-09 15:01:28.192445||error||visiting||google searchresults||2||0
+2020-12-09 15:01:31.277543||error||visiting||google searchresults||3||1
+2020-12-09 15:01:34.760316||error||visiting||google searchresults||0||1
+2020-12-09 15:01:35.247992||error||visiting||google searchresults||1||0
+2020-12-09 15:01:36.272363||error||visiting||google searchresults||2||0
+2020-12-09 15:01:52.998152||treatment||google search||ladies's shaving kit||3||1
+2020-12-09 15:01:53.293728||error||visiting||google searchresults||3||1
+2020-12-09 15:01:55.889694||treatment||google search||manly cocktails||2||0
+2020-12-09 15:01:56.051973||error||visiting||google searchresults||2||0
+2020-12-09 15:01:57.099235||treatment||google search||girly cocktails||0||1
+2020-12-09 15:01:57.227175||error||visiting||google searchresults||0||1
+2020-12-09 15:01:58.406574||treatment||google search||manly cocktails||1||0
+2020-12-09 15:01:58.573112||error||visiting||google searchresults||1||0
+2020-12-09 15:02:08.871850||treatment||visit page||https://www.google.com/search?source=hp&ei=MzvRX5WyHJrctAaEzqCIBw&q=ladies%27s+shaving+kit&oq=ladies%27s+shaving+kit&gs_lcp=CgZwc3ktYWIQAzIHCAAQyQMQDTIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BAgAEA06CAgAEAgQDRAeUI0dWNI6YJFJaABwAHgAgAGTDIgBhCeSAQc2LTEuMi4xmAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwjVl9js5cHtAhUaLs0KHQQnCHEQ4dUDCAg&uact=5||3||1
+2020-12-09 15:02:18.172046||treatment||visit page||https://cocktails.lovetoknow.com/about-cocktails/manly-bar-drinks||2||0
+2020-12-09 15:02:19.407887||error||visiting||google searchresults||3||1
+2020-12-09 15:02:20.135916||treatment||visit page||https://cocktails.lovetoknow.com/about-cocktails/manly-bar-drinks||1||0
+2020-12-09 15:02:27.440349||error||visiting||google searchresults||3||1
+2020-12-09 15:02:35.563155||error||visiting||google searchresults||3||1
+2020-12-09 15:02:51.292145||treatment||google search||girly cocktails||3||1
+2020-12-09 15:02:51.849486||error||visiting||google searchresults||3||1
+2020-12-09 15:02:52.124538||treatment||visit page||https://www.mankind.co.uk/blog/lifestyle-focus/top-5-manly-cocktails-you-must-try/||1||0
+2020-12-09 15:02:54.522486||treatment||visit page||https://www.pinterest.com/pin/249949848046812696/||0||1
+2020-12-09 15:02:58.199945||error||visiting||google searchresults||2||0
+2020-12-09 15:03:06.163593||error||visiting||google searchresults||1||0
+2020-12-09 15:03:14.307575||error||visiting||google searchresults||1||0
+2020-12-09 15:03:22.318657||event||progress-marker||training-end||1||0
+2020-12-09 15:03:31.864298||treatment||visit page||https://www.pinterest.com/pin/249949848046812696/||3||1
+2020-12-09 15:03:50.725255||treatment||visit page||https://www.pinterest.com/craftymorning0/girly-cocktails/||0||1
+2020-12-09 15:04:13.091526||treatment||visit page||https://www.thecoolist.com/best-girly-drinks/||0||1
+2020-12-09 15:04:17.858597||treatment||visit page||https://www.pinterest.com/craftymorning0/girly-cocktails/||3||1
+2020-12-09 15:04:38.902227||treatment||visit page||https://foodfornet.com/girly-cocktails/||0||1
+2020-12-09 15:04:43.982203||treatment||visit page||https://www.thecoolist.com/best-girly-drinks/||3||1
+2020-12-09 15:04:50.358650||event||progress-marker||training-end||0||1
+2020-12-09 15:05:05.105202||treatment||visit page||https://foodfornet.com/girly-cocktails/||3||1
+2020-12-09 15:05:13.832356||event||progress-marker||training-end||3||1
+2020-12-09 15:17:23.174491||error||block timeout||Error||1||0
+2020-12-09 15:17:23.174062||error||block timeout||Error||0||1
+2020-12-09 15:17:23.183787||error||block timeout||Error||0||2
+2020-12-09 15:17:23.185877||error||visiting||google searchresults||2||0
+2020-12-09 15:17:23.192432||error||block timeout||Error||1||3
